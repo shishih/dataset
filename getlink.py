@@ -144,14 +144,14 @@ def timeout(seconds):
     return timeout_decorator
 
 
-videolink=link+‘videos’
+source_url=link+‘/videos’
 for tryNum in range(maxTryNum):
     try:
         req_header = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36',
         'Accept':'text/html,application/xhtml+xml, */*',
-        'Accept-Language': 'zh-CN',
+        # 'Accept-Language': 'zh-CN',
         'Connection':'Keep-Alive',
-        'Referer':'http://weibo.cn/search/?gsid=' #注意如果依然不能抓取的话，这里可以设置抓取网站的host
+        # 'Referer':'http://weibo.cn/search/?gsid=' #注意如果依然不能抓取的话，这里可以设置抓取网站的host
         }
         #ckjar=cookielib.MozillaCookieJar(os.path.join('C:\Users\Agnes\AppData\Local\Google\Chrome\User Data\Default','Cookies'))
         jr=cookielib.CookieJar()
@@ -181,17 +181,13 @@ for tryNum in range(maxTryNum):
         else:
             print 'Internet Connect Error!'
             self.logger.error('Internet Connect Error!')
-            self.logger.info('filePath: ' + savedir)
             self.logger.info('url: ' + source_url)
-            self.logger.info('fileNum: ' + str(fileNum))
-            self.logger.info('page: ' + str(i))
             self.flag = False
             goon = False
             break
 
-pattern=re.compile(r'/watch?v=.{11}')
-
-match=pattern.match(data)
-file.write(str(len(match.group()))+'\n')
-for video in match.group():
+pattern=re.compile(r'href="/watch?v=.+"')
+match=pattern.findall(data)
+file.write(str(len(match))+'\n')
+for video in match:
     file.write(str(video)+'\n')
