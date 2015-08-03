@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import re
-import sys,os, urllib, urllib2, time, random
+import sys,os, urllib, urllib2, time, random, cookielib
 import threading
 
 maxTryNum=5
@@ -143,51 +143,52 @@ def timeout(seconds):
 
     return timeout_decorator
 
-
-source_url=link+‘/videos’
-for tryNum in range(maxTryNum):
-    try:
-        req_header = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36',
-        'Accept':'text/html,application/xhtml+xml, */*',
-        # 'Accept-Language': 'zh-CN',
-        'Connection':'Keep-Alive',
-        # 'Referer':'http://weibo.cn/search/?gsid=' #注意如果依然不能抓取的话，这里可以设置抓取网站的host
-        }
-        #ckjar=cookielib.MozillaCookieJar(os.path.join('C:\Users\Agnes\AppData\Local\Google\Chrome\User Data\Default','Cookies'))
-        jr=cookielib.CookieJar()
-        cookie_support=urllib2.HTTPCookieProcessor(jr)
-        opener=urllib2.build_opener(cookie_support,urllib2.HTTPHandler)
-        urllib2.install_opener(opener)
-        #req=urllib2.Request(source_url,None,req_header)
-        #request.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 6.2; rv:16.0) Gecko/20100101 Firefox/16.0')
-        #html = urllib2.urlopen(source_url, timeout=12)
-        req=urllib2.Request(source_url,headers=req_header)
-        #req.add_header(req_header)
-        
-        html = urllib2.urlopen(req,timeout=12)
-        
-        
-        data = html.read()
-        data = gzip.GzipFile(fileobj = StringIO.StringIO(data)).read()
-        fdata=open('F:\temp.html','w+')
-        fdata.write(data)
-        fdata.close()
-        
-        break
-    except:
-        if tryNum < (maxTryNum-1):
-            print 'Connect again'
-            time.sleep(10)
-        else:
-            print 'Internet Connect Error!'
-            self.logger.error('Internet Connect Error!')
-            self.logger.info('url: ' + source_url)
-            self.flag = False
-            goon = False
+linklist=['https://www.youtube.com/user/AynRandInstitute']
+for link in linklist:
+    source_url=link+'/videos'
+    for tryNum in range(maxTryNum):
+        try:
+            req_header = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/40.0.2214.115 Safari/537.36',
+            'Accept':'text/html,application/xhtml+xml, */*',
+            # 'Accept-Language': 'zh-CN',
+            'Connection':'Keep-Alive',
+            # 'Referer':'http://weibo.cn/search/?gsid=' #注意如果依然不能抓取的话，这里可以设置抓取网站的host
+            }
+            #ckjar=cookielib.MozillaCookieJar(os.path.join('C:\Users\Agnes\AppData\Local\Google\Chrome\User Data\Default','Cookies'))
+            jr=cookielib.CookieJar()
+            cookie_support=urllib2.HTTPCookieProcessor(jr)
+            opener=urllib2.build_opener(cookie_support,urllib2.HTTPHandler)
+            urllib2.install_opener(opener)
+            #req=urllib2.Request(source_url,None,req_header)
+            #request.add_header('User-Agent', 'Mozilla/5.0 (Windows NT 6.2; rv:16.0) Gecko/20100101 Firefox/16.0')
+            #html = urllib2.urlopen(source_url, timeout=12)
+            req=urllib2.Request(source_url,headers=req_header)
+            #req.add_header(req_header)
+            
+            html = urllib2.urlopen(req,timeout=12)
+            
+            
+            data = html.read()
+            data = gzip.GzipFile(fileobj = StringIO.StringIO(data)).read()
+            # fdata=open('F:\temp.html','w+')
+            # fdata.write(data)
+            # fdata.close()
+            
             break
+        except:
+            if tryNum < (maxTryNum-1):
+                print 'Connect again'
+                time.sleep(10)
+            else:
+                print 'Internet Connect Error!'
+                self.logger.error('Internet Connect Error!')
+                self.logger.info('url: ' + source_url)
+                self.flag = False
+                goon = False
+                break
 
-pattern=re.compile(r'href="/watch?v=.+"')
-match=pattern.findall(data)
-file.write(str(len(match))+'\n')
-for video in match:
-    file.write(str(video)+'\n')
+    pattern=re.compile(r'href="/watch?v=.+"')
+    match=pattern.findall(data)
+    file.write(str(len(match))+'\n')
+    for video in match:
+        file.write(str(video)+'\n')

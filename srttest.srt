@@ -1,0 +1,909 @@
+1
+00:00:00,000 --> 00:00:05,216
+[MUSIC]
+
+2
+00:00:05,216 --> 00:00:05,739
+Hi!
+
+3
+00:00:05,739 --> 00:00:09,290
+Welcome, thanks for
+coming to the psychology of popularity.
+
+4
+00:00:09,290 --> 00:00:11,610
+I'm glad that you selected this course.
+
+5
+00:00:11,610 --> 00:00:15,066
+And I'm excited to tell you about some
+of the work that I've been doing and
+
+6
+00:00:15,066 --> 00:00:18,890
+lots of researchers have been
+doing in the area of popularity.
+
+7
+00:00:18,890 --> 00:00:22,720
+But when we talk about popularity,
+a lot of people will sometimes say
+
+8
+00:00:22,720 --> 00:00:26,290
+is this really a subject that
+people study in psychology?
+
+9
+00:00:26,290 --> 00:00:30,140
+Isn't this just something that
+is important in high school or
+
+10
+00:00:30,140 --> 00:00:31,030
+in adolescence?
+
+11
+00:00:31,030 --> 00:00:33,530
+What difference does this
+really make in the real world?
+
+12
+00:00:33,530 --> 00:00:37,660
+So maybe a good way to start is for
+us to talk a little bit about
+
+13
+00:00:37,660 --> 00:00:40,350
+how popularity really does
+play an important role.
+
+14
+00:00:40,350 --> 00:00:44,660
+And it plays an important role actually
+throughout the entire lifespan.
+
+15
+00:00:44,660 --> 00:00:46,640
+So, first of all,
+
+16
+00:00:46,640 --> 00:00:51,110
+of course when we think about who cares
+about popularity we think about children.
+
+17
+00:00:51,110 --> 00:00:56,540
+And in this graphic what you can see is
+that even starting at very young ages,
+
+18
+00:00:56,540 --> 00:01:01,350
+and this graphic is from over 30
+years ago, children spend far more
+
+19
+00:01:01,350 --> 00:01:07,220
+time of their waking hours surrounded by
+their peers than surrounded by adults.
+
+20
+00:01:07,220 --> 00:01:11,605
+And you can see here that between
+the ages of about two all the way until
+
+21
+00:01:11,605 --> 00:01:15,410
+pre-adolescence, there's this dramatic and
+increasing tendency for
+
+22
+00:01:15,410 --> 00:01:16,700
+kids to interact with their peers.
+
+23
+00:01:16,700 --> 00:01:21,230
+So of course, if those interactions
+are aversive, difficult,
+
+24
+00:01:21,230 --> 00:01:25,430
+filled with victimization that's going to
+have a big effect on the developing child.
+
+25
+00:01:25,430 --> 00:01:28,520
+What you don't see after
+this graphic is that
+
+26
+00:01:28,520 --> 00:01:33,450
+these trends just increase
+dramatically into adolescence.
+
+27
+00:01:33,450 --> 00:01:35,323
+So once kids get into adolescence,
+
+28
+00:01:35,323 --> 00:01:38,890
+of course, it's totally uncool
+to spend any time with adults.
+
+29
+00:01:38,890 --> 00:01:42,944
+And we see even more increases in
+the amount of time spent with peers.
+
+30
+00:01:42,944 --> 00:01:48,550
+In fact, what we know is that starting
+at the age of three, young children can
+
+31
+00:01:48,550 --> 00:01:52,940
+already tell you which kids are the most
+popular, which kids are the least popular,
+
+32
+00:01:52,940 --> 00:01:56,710
+and which kids are kind of not
+affiliating with their peers at all.
+
+33
+00:01:56,710 --> 00:02:01,390
+So starting from very, very early
+in childhood, popularity becomes
+
+34
+00:02:01,390 --> 00:02:05,590
+a really important construct, a variable,
+that really has impact over time.
+
+35
+00:02:06,830 --> 00:02:10,240
+Now once we pass through childhood and
+we get into adolescence,
+
+36
+00:02:10,240 --> 00:02:14,430
+there are actually some biological reasons
+why popularity starts playing a big role.
+
+37
+00:02:15,500 --> 00:02:18,184
+So what you can see here,
+this is a graphic of the brain.
+
+38
+00:02:18,184 --> 00:02:22,740
+And what we know now is that
+from the time that the pubertal
+
+39
+00:02:22,740 --> 00:02:26,950
+transition starts,
+adolescents brains start to mature, but
+
+40
+00:02:26,950 --> 00:02:30,060
+the whole brain doesn't mature
+at the exact same time.
+
+41
+00:02:30,060 --> 00:02:32,840
+It actually starts in the back and
+
+42
+00:02:32,840 --> 00:02:36,900
+then the development of the brain
+kind of moves up forward.
+
+43
+00:02:36,900 --> 00:02:41,560
+So what that means is that the parts of
+the brain that are developing the most
+
+44
+00:02:41,560 --> 00:02:43,670
+are the parts that are below the cortex.
+
+45
+00:02:43,670 --> 00:02:46,980
+In other words, the parts that
+are shared with most mammals.
+
+46
+00:02:46,980 --> 00:02:50,750
+And those things are kind of instinctual
+drives and things that you want for
+
+47
+00:02:50,750 --> 00:02:52,430
+quick rewards.
+
+48
+00:02:52,430 --> 00:02:57,080
+And one of those pieces in the limbic
+system that's really important
+
+49
+00:02:57,080 --> 00:02:59,860
+is the desire for social rewards.
+
+50
+00:02:59,860 --> 00:03:03,770
+And the reason why in adolescence
+there's this big push for
+
+51
+00:03:03,770 --> 00:03:07,060
+our brains telling us to go out and
+get social rewards,
+
+52
+00:03:07,060 --> 00:03:12,200
+is because it's a way of helping us
+to develop autonomy from adults.
+
+53
+00:03:12,200 --> 00:03:14,720
+It's basically telling us,
+your parents aren't cool anymore.
+
+54
+00:03:14,720 --> 00:03:18,538
+You want to be able to go out and
+learn how to be self sufficient.
+
+55
+00:03:18,538 --> 00:03:22,070
+You're not going to be taking care of by
+your parents for the rest of your life.
+
+56
+00:03:22,070 --> 00:03:25,790
+So our brains make us really
+interested in hanging out with peers,
+
+57
+00:03:25,790 --> 00:03:28,580
+being very excited about
+what happens with peers.
+
+58
+00:03:28,580 --> 00:03:33,520
+And as a result, we tend to be
+very interested in whatever we
+
+59
+00:03:33,520 --> 00:03:38,080
+can do to make us want to get
+rewards from people our age.
+
+60
+00:03:38,080 --> 00:03:41,230
+And simultaneously,
+we become less interested in adults, so
+
+61
+00:03:41,230 --> 00:03:42,970
+that's totally natural.
+
+62
+00:03:42,970 --> 00:03:46,250
+Unfortunately all that develops before the
+part of the brain in the front that helps
+
+63
+00:03:46,250 --> 00:03:51,300
+us to exert control over those impulses
+and keep us from doing things impulsive.
+
+64
+00:03:51,300 --> 00:03:55,280
+That doesn't develop until later, so we
+don't really see that happen which is why
+
+65
+00:03:55,280 --> 00:03:58,240
+in adolescence there's lots
+of risk taking behavior.
+
+66
+00:03:58,240 --> 00:04:04,230
+So that's why we see this huge increase
+in a desire to do what peers do and
+
+67
+00:04:04,230 --> 00:04:06,920
+care what peers think in adolescence.
+
+68
+00:04:08,130 --> 00:04:11,490
+So that's a big part of what's
+happening as we grow up.
+
+69
+00:04:11,490 --> 00:04:15,120
+And of course, when we think about
+adolescence usually the things we remember
+
+70
+00:04:15,120 --> 00:04:17,730
+the most are not the things that
+happened with our parents or
+
+71
+00:04:17,730 --> 00:04:20,810
+the things that happened with
+our courses in high school.
+
+72
+00:04:20,810 --> 00:04:24,020
+But we're really think
+about who was popular,
+
+73
+00:04:24,020 --> 00:04:26,850
+how much was I embarrassed
+in front of other peers?
+
+74
+00:04:26,850 --> 00:04:31,040
+How much can I make sure that I'm meeting
+people to be friends with or to date, and
+
+75
+00:04:31,040 --> 00:04:32,030
+that becomes really important.
+
+76
+00:04:33,500 --> 00:04:35,108
+So what about with adults?
+
+77
+00:04:35,108 --> 00:04:39,860
+Well, I mean, one interesting thing
+about adulthood is that for some reason,
+
+78
+00:04:39,860 --> 00:04:44,330
+adults love talking about their
+adolescence in terms of popularity.
+
+79
+00:04:44,330 --> 00:04:47,810
+And if you look at things that
+you see on TV, or songs, or
+
+80
+00:04:47,810 --> 00:04:52,540
+especially movies out there, there are
+tons of movies that kind of bring us back
+
+81
+00:04:52,540 --> 00:04:54,160
+to those times in adolescence.
+
+82
+00:04:54,160 --> 00:04:57,510
+And we really are talking about
+peer relationships and friendships.
+
+83
+00:04:57,510 --> 00:04:59,790
+There's a reason why we're
+really interested in that and
+
+84
+00:04:59,790 --> 00:05:01,230
+that's from nostalgic value.
+
+85
+00:05:02,440 --> 00:05:06,940
+But maybe there's a reason why we
+also care about popularity as adults.
+
+86
+00:05:06,940 --> 00:05:08,680
+That has to do with present day.
+
+87
+00:05:08,680 --> 00:05:13,540
+If you think about it, there are a lot
+of ways that in our adulthood life,
+
+88
+00:05:13,540 --> 00:05:17,960
+we are still thinking about and
+probably really affected by popularity.
+
+89
+00:05:17,960 --> 00:05:19,600
+And hopefully that's why you're here.
+
+90
+00:05:19,600 --> 00:05:24,100
+You're here so that way you can get
+an idea about how popularity is
+
+91
+00:05:24,100 --> 00:05:27,910
+affecting how happy you are today,
+how successful you are today and
+
+92
+00:05:27,910 --> 00:05:29,950
+how your relationships are going today.
+
+93
+00:05:29,950 --> 00:05:32,430
+There are a lot of different
+ways that we see this and
+
+94
+00:05:32,430 --> 00:05:37,670
+probably now much more than we
+have seen for decades earlier.
+
+95
+00:05:37,670 --> 00:05:40,425
+We see all this reflected in social media.
+
+96
+00:05:40,425 --> 00:05:45,450
+So social media is really pulling us
+all back into that adolescent world of
+
+97
+00:05:45,450 --> 00:05:48,920
+caring about who responded
+to our Facebook likes and
+
+98
+00:05:48,920 --> 00:05:52,180
+posts and
+how many Twitter followers we have.
+
+99
+00:05:52,180 --> 00:05:56,360
+And which pictures we put up, and how
+many people have paid attention to that.
+
+100
+00:05:56,360 --> 00:06:01,200
+It's kind of in a way of playing out this
+idea of popularity all over again, but
+
+101
+00:06:01,200 --> 00:06:04,100
+it's doing it in a way that's explicit and
+measurable and
+
+102
+00:06:04,100 --> 00:06:05,180
+there are numbers next to it.
+
+103
+00:06:05,180 --> 00:06:08,840
+And people sometimes even
+get very hyped up about
+
+104
+00:06:08,840 --> 00:06:11,810
+how often their posts have
+been paid attention to.
+
+105
+00:06:11,810 --> 00:06:15,570
+Or they seem to try and get more
+relationships through social media.
+
+106
+00:06:15,570 --> 00:06:16,830
+So it's affecting us as adults.
+
+107
+00:06:16,830 --> 00:06:20,470
+It's certainly affecting these
+adolescents growing up today.
+
+108
+00:06:20,470 --> 00:06:23,050
+But it's also affecting us as adults.
+
+109
+00:06:23,050 --> 00:06:26,930
+Another way that we really
+see popularity playing a role
+
+110
+00:06:26,930 --> 00:06:29,340
+is our big fixation with celebrities.
+
+111
+00:06:29,340 --> 00:06:30,820
+And if you think about it,
+
+112
+00:06:30,820 --> 00:06:35,590
+celebrities are kind of the popular
+kids in the adult high school.
+
+113
+00:06:35,590 --> 00:06:38,430
+For some reason, and all you have to
+do is go to the grocery store and
+
+114
+00:06:38,430 --> 00:06:40,420
+kind of see all the magazines there.
+
+115
+00:06:40,420 --> 00:06:44,730
+We are remarkably concerned
+about what they're doing and
+
+116
+00:06:44,730 --> 00:06:48,850
+what they look like and what they say and
+what their opinions are.
+
+117
+00:06:48,850 --> 00:06:53,720
+This is even a big marketing strategy to
+get celebrity endorsers with the idea that
+
+118
+00:06:53,720 --> 00:06:55,810
+if a celebrity buys a product or
+
+119
+00:06:55,810 --> 00:07:01,240
+espouses a world view, we might be
+more likely to have similar attitudes.
+
+120
+00:07:01,240 --> 00:07:05,600
+And the reason why is it's playing up
+on these same ideas of popularity that
+
+121
+00:07:05,600 --> 00:07:09,710
+we will see what those people
+do as highly influential.
+
+122
+00:07:09,710 --> 00:07:13,130
+In fact, a lot of marketing
+is really geared towards
+
+123
+00:07:13,130 --> 00:07:17,860
+leveraging the same types of
+popularity dynamics in current day.
+
+124
+00:07:17,860 --> 00:07:22,350
+And when you think about marketing from
+the perspective of political marketing.
+
+125
+00:07:22,350 --> 00:07:24,970
+We're really seeing that when
+it comes to campaigns and
+
+126
+00:07:24,970 --> 00:07:29,080
+presidential campaigns, there's really
+a way in which we're trying to be pulled
+
+127
+00:07:29,080 --> 00:07:32,380
+towards the same types
+of popularity politics.
+
+128
+00:07:32,380 --> 00:07:34,460
+And that really plays an important role.
+
+129
+00:07:34,460 --> 00:07:37,180
+And it's something that's
+effecting our whole culture.
+
+130
+00:07:37,180 --> 00:07:39,840
+And that has a lot to do with popularity.
+
+131
+00:07:39,840 --> 00:07:45,670
+But, even if we go beyond
+the perspective of the entire culture,
+
+132
+00:07:45,670 --> 00:07:47,830
+how is popularity affecting your life?
+
+133
+00:07:47,830 --> 00:07:51,960
+What are things that you are experiencing
+every day that have a lot to
+
+134
+00:07:51,960 --> 00:07:56,260
+do with popularity, as many of us have
+studied it, in childhood and adolescence?
+
+135
+00:07:56,260 --> 00:08:01,210
+Well If you work in an office with other
+people, then you've probably noticed
+
+136
+00:08:01,210 --> 00:08:05,420
+that there are some ways that the office
+has some of the kinds of cliques and
+
+137
+00:08:05,420 --> 00:08:08,350
+groups and
+reputations that there was in high school.
+
+138
+00:08:08,350 --> 00:08:10,570
+It might be far more sophisticated.
+
+139
+00:08:10,570 --> 00:08:13,440
+It might be presented in a way
+that's a little bit different.
+
+140
+00:08:13,440 --> 00:08:15,430
+No one is kind of playing
+on a playground or
+
+141
+00:08:15,430 --> 00:08:18,244
+teasing kids that have to sit in
+the corner of the room in the workplace.
+
+142
+00:08:18,244 --> 00:08:23,420
+But there are ways in which some people
+tend to have much more influence
+
+143
+00:08:23,420 --> 00:08:27,330
+in meetings, people really want
+to hear what they have to say,
+
+144
+00:08:27,330 --> 00:08:30,540
+they have a way of really
+getting people laughing.
+
+145
+00:08:30,540 --> 00:08:34,490
+They might stand in the door frame having
+conversations with their coworkers a lot.
+
+146
+00:08:34,490 --> 00:08:36,630
+Where as other people,
+they're not invited to lunch,
+
+147
+00:08:36,630 --> 00:08:39,730
+they really aren't someone that
+people want to affiliate with.
+
+148
+00:08:39,730 --> 00:08:41,880
+Turns out that really
+affects work performance.
+
+149
+00:08:41,880 --> 00:08:45,800
+That affects how much the company,
+overall, is successful.
+
+150
+00:08:45,800 --> 00:08:48,530
+That even affects how long people
+will stay in their job, and
+
+151
+00:08:48,530 --> 00:08:51,090
+a lot of that has to do with popularity.
+
+152
+00:08:51,090 --> 00:08:54,860
+We also see this of course,
+play a role in all of our relationships.
+
+153
+00:08:54,860 --> 00:08:58,440
+So whether it's our
+adulthood friendships and
+
+154
+00:08:58,440 --> 00:09:02,410
+how much we feel we're getting support
+from friends in times of stress.
+
+155
+00:09:02,410 --> 00:09:04,300
+Or how much we feel in
+our friendship groups.
+
+156
+00:09:04,300 --> 00:09:06,960
+There are some people
+who tend to be the boss.
+
+157
+00:09:06,960 --> 00:09:09,680
+And tell everyone what they're doing and
+what the plans are and
+
+158
+00:09:09,680 --> 00:09:11,380
+whose house you're meeting at.
+
+159
+00:09:11,380 --> 00:09:16,180
+Versus those that tend to still feel
+a little bit like they're on the outskirts
+
+160
+00:09:16,180 --> 00:09:17,140
+of the social group.
+
+161
+00:09:17,140 --> 00:09:19,990
+Or they're not the ones in
+the neighborhood that are often
+
+162
+00:09:19,990 --> 00:09:21,800
+invited to all of the events.
+
+163
+00:09:21,800 --> 00:09:23,990
+That's all about popularity too.
+
+164
+00:09:23,990 --> 00:09:28,210
+In fact, we even see that play a big
+role when it comes to romantic partners.
+
+165
+00:09:28,210 --> 00:09:32,510
+Who you meet, how dating goes,
+how we feel during a date.
+
+166
+00:09:32,510 --> 00:09:36,180
+Then afterwards, our satisfaction
+in our marital relationships or
+
+167
+00:09:36,180 --> 00:09:38,350
+other kinds of romantic partnerships.
+
+168
+00:09:38,350 --> 00:09:42,850
+A lot of that stems from the things
+we learn about popularity.
+
+169
+00:09:42,850 --> 00:09:46,990
+Of course, for those of us that
+are parents, in our adulthood,
+
+170
+00:09:46,990 --> 00:09:52,030
+we also find that parenting is something
+really tied into popularity, as well.
+
+171
+00:09:53,080 --> 00:09:58,200
+We know that the way that you
+experience popularity as a child
+
+172
+00:09:58,200 --> 00:10:00,880
+as related to the kind of parent you are.
+
+173
+00:10:00,880 --> 00:10:04,580
+And we also know that it affects you're
+own children's level of popularity and
+
+174
+00:10:04,580 --> 00:10:09,410
+whether they do well at school or
+if they don't do as well with their peers.
+
+175
+00:10:09,410 --> 00:10:14,140
+We also know that how kids
+deal with popularity today,
+
+176
+00:10:14,140 --> 00:10:18,470
+especially in the world of social media,
+is very different than how we all dealt
+
+177
+00:10:18,470 --> 00:10:23,530
+with these things back when we were kids,
+way before social media even got started.
+
+178
+00:10:23,530 --> 00:10:26,840
+So that's something we're
+going to talk about as well.
+
+179
+00:10:26,840 --> 00:10:29,073
+So overall,
+what we're going to talk about for
+
+180
+00:10:29,073 --> 00:10:33,430
+the rest of this course is specifically
+why popularity is so important.
+
+181
+00:10:33,430 --> 00:10:38,250
+Why is it that this is something that we
+all seem to care so much about when we're
+
+182
+00:10:38,250 --> 00:10:42,882
+young, and it continues to play out in
+all these different ways in adulthood?
+
+183
+00:10:42,882 --> 00:10:47,710
+We're going to talk also about how
+we study popularity scientifically.
+
+184
+00:10:47,710 --> 00:10:51,998
+And using that scientific research,
+what do we know about what predicts who's
+
+185
+00:10:51,998 --> 00:10:56,440
+popular across lots of different
+settings and across the lifespan?
+
+186
+00:10:56,440 --> 00:11:00,750
+And how popularity predicts
+our life outcomes overall.
+
+187
+00:11:00,750 --> 00:11:04,885
+And we're going to talk about all of these
+things over the course of the next few
+
+188
+00:11:04,885 --> 00:11:07,280
+lectures so thanks again for joining.
+
+189
+00:11:07,280 --> 00:11:09,690
+Really excited that you're here and
+
+190
+00:11:09,690 --> 00:11:11,630
+excited to keep on going
+with the next clip.
+
