@@ -2,7 +2,7 @@ import re
 import sys,os, urllib, urllib2, time, random, cookielib
 import threading
 
-file=open('youtubelist.txt')
+file=open('channellist_sentiment.txt')
 linklist=file.readlines()
 file.close()
 
@@ -14,9 +14,9 @@ for link in linklist:
     matchList=patternList.search(link)
     patternWatch=re.compile(r'watch')
     matchWatch=patternWatch.search(link)
-    if match:
+    if matchList:
         source_url=link
-    elif match1:
+    elif matchWatch:
         source_url=link
     else:
         source_url=link+'/videos'
@@ -36,7 +36,7 @@ for link in linklist:
     pattern=re.compile(r'\/watch\?v\=.+?\"')
     match=pattern.findall(data)
     print match
-    file=open('playlist.txt','a')
+    file=open('playlist_sentiment.txt','a')
     file.write(str(len(match))+' '+source_url+'\n')
     for video in match:
         file.write('https://www.youtube.com'+str(video)+'\n')
