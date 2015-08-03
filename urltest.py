@@ -40,6 +40,6 @@ for link in linklist:
         file.write('https://www.youtube.com'+str(video)+'\n')
     file.close()
 
-    waitTime=random.uniform(2,6)
+    waitTime=random.uniform(15,30)
     print 'sleep'
     time.sleep(waitTime)
