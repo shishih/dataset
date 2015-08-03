@@ -23,9 +23,7 @@ for link in linklist:
     print 'source_url:',source_url
 
     # get the links of video
-    waitTime=random.uniform(2,6)
-    print 'sleep'
-    time.sleep(waitTime)
+    
 
     html=urllib2.urlopen(source_url)
     data=html.read()
@@ -41,3 +39,7 @@ for link in linklist:
     for video in match:
         file.write('https://www.youtube.com'+str(video)+'\n')
     file.close()
+
+    waitTime=random.uniform(2,6)
+    print 'sleep'
+    time.sleep(waitTime)
