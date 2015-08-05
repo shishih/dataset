@@ -20,25 +20,28 @@ def trans(fileSrt,fileTxt):
 
 def main():
     # path='../video\profiling'+'\\'
-    path='F://Research/Video/Dataset/pathtest/'
+    path='F:/Research/Video/Dataset/pathtest/'
     nameList=[]
-    initList=os.listdir(path)
+    # initList=os.listdir(path)
 
-    fileList=open('srtlist.txt')
-    data=fileList.readlines()
-    for line in data:
-        line=path+line.strip('\n')
-        srtFile=line
-        txtFile=line[:-3]+'txt'
+    # fileList=open('srtlist.txt')
+    # data=fileList.readlines()
+    filelist=os.listdir(path)
+    for line in filelist:
+        name=os.path.splitext(line)
+        line=path+line.strip()
+        if name[1]=='.srt':            
+            srtFile=line
+            txtFile=line[:-3]+'txt'
 
-        if txtFile in nameList:
-            pass
-        else:
-            fileSrt=open(srtFile)
-            fileTxt=open(txtFile,'a')
-            trans(fileSrt,fileTxt)
-            fileSrt.close()
-            fileTxt.close()
+            if txtFile in filelist:
+                pass
+            else:
+                fileSrt=open(srtFile)
+                fileTxt=open(txtFile,'a')
+                trans(fileSrt,fileTxt)
+                fileSrt.close()
+                fileTxt.close()
 
 if __name__ == '__main__':
     main()

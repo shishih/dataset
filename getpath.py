@@ -17,20 +17,24 @@ def getInput(nameList,file,path):
     srtName=''
     videoname=''
     txtname=''
-    nameDic={}
+    videoDic={}
     for name in nameList:
-		if string.find(name[0],' ')!=-1:
-			print 'error'
-		if name[1]=='.mp4':
-            if name[0]==txtname:
-                file.write(path+name[0]+name[1]+',,'+srtName+'\n')
+        if string.find(name[0],' ')!=-1:
+            print 'error'
+        if name[1]=='.mp4':
+            if videoDic.has_key(name[0]):
+                file.write(path+name[0]+'.mp4'+',,'+path+name[0]+'.en.txt'+'\n')
             else:
+                videoDic[name[0]]=1
 
-		elif name[1]=='.srt':
-			srtName=path+name[0]+'.txt'
+        elif name[1]=='.srt':
+            if videoDic.has_key(name[0][:-3]):
+                file.write(path+name[0][:-3]+'.mp4'+',,'+path+name[0][:-3]+'.en.txt'+'\n')
+            else:
+                videoDic[name[0][:-3]]=1
 def main():
-    # path='E:\users\yushiy\video\profiling'
-    path='E:/users/yushiy/video/profiling/'
+    # path='E:/users/yushiy/video/profiling/'
+    path='F:\Research\Video\Dataset\pathtest'
     nameList=getname(path)
     # print nameList
     # file=open('srtlist_sentiment.txt','a')
