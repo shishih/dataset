@@ -18,15 +18,15 @@ fp=open('file/videolist.txt','a')
 for sub in sublist:
     dirlist=os.listdir(path+sub)
     for file in dirlist:
-        mainname=patternEn.sub('',patternInfo.sub('',patternAnno.sub('',os.path.splitext(file)[0])))
-        if not mainname in namelist:
-            namelist.append(mainname)
+        # mainname=patternEn.sub('',patternInfo.sub('',patternAnno.sub('',os.path.splitext(file)[0])))
+        # if not mainname in namelist:
+        #     namelist.append(mainname)
 
         ext=os.path.splitext(file)[1]
         
-        newname=str(namelist.index(mainname))+ext
-
-        fp.write(str(sub)+newname+'\n')
+        # newname=str(namelist.index(mainname))+ext
+        if ext=='.mp4':
+            fp.write(str(sub)+'/'+file+'\n')
         # if newname in os.listdir(path+sub):
         # # if newname in dirlist:
         #     os.remove(path+sub+'/'+file)
