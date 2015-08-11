@@ -1,0 +1,618 @@
+0$algo-008/1 - 1 - Why Study Algorithms _ (4 min).srt$0.srt
+1$algo-008/1 - 2 - Integer Multiplication (9 min).srt$1.srt
+2$algo-008/1 - 3 - Karatsuba Multiplication (13 min).mp4$2.mp4
+2$algo-008/1 - 3 - Karatsuba Multiplication (13 min).srt$2.srt
+3$algo-008/1 - 4 - About the Course (17 min).mp4$3.mp4
+3$algo-008/1 - 4 - About the Course (17 min).srt$3.srt
+4$algo-008/1 - 5 - Merge Sort_ Motivation and Example (9 min).mp4$4.mp4
+4$algo-008/1 - 5 - Merge Sort_ Motivation and Example (9 min).srt$4.srt
+5$algo-008/1 - 6 - Merge Sort_ Pseudocode (13 min).mp4$5.mp4
+5$algo-008/1 - 6 - Merge Sort_ Pseudocode (13 min).srt$5.srt
+6$algo-008/1 - 7 - Merge Sort_ Analysis (9 min).mp4$6.mp4
+6$algo-008/1 - 7 - Merge Sort_ Analysis (9 min).srt$6.srt
+7$algo-008/1 - 8 - Guiding Principles for Analysis of Algorithms (15 min).mp4$7.mp4
+7$algo-008/1 - 8 - Guiding Principles for Analysis of Algorithms (15 min).srt$7.srt
+8$algo-008/2 - 1 - The Gist (14 min).mp4$8.mp4
+8$algo-008/2 - 1 - The Gist (14 min).srt$8.srt
+9$algo-008/2 - 2 - Big-Oh Notation (4 min).srt$9.srt
+10$algo-008/2 - 3 - Basic Examples (7 min).mp4$10.mp4
+10$algo-008/2 - 3 - Basic Examples (7 min).srt$10.srt
+11$algo-008/2 - 4 - Big Omega and Theta (7 min).mp4$11.mp4
+11$algo-008/2 - 4 - Big Omega and Theta (7 min).srt$11.srt
+12$algo-008/2 - 5 - Additional Examples [Review - Optional] (8 min).mp4$12.mp4
+12$algo-008/2 - 5 - Additional Examples [Review - Optional] (8 min).srt$12.srt
+13$algo-008/3 - 1 - O(n log n) Algorithm for Counting Inversions I (13 min).mp4$13.mp4
+13$algo-008/3 - 1 - O(n log n) Algorithm for Counting Inversions I (13 min).srt$13.srt
+14$algo-008/3 - 2 - O(n log n) Algorithm for Counting Inversions II (17 min).mp4$14.mp4
+14$algo-008/3 - 2 - O(n log n) Algorithm for Counting Inversions II (17 min).srt$14.srt
+15$algo-008/3 - 3 - Strassen_'s Subcubic Matrix Multiplication Algorithm (22 min).mp4$15.mp4
+15$algo-008/3 - 3 - Strassen_'s Subcubic Matrix Multiplication Algorithm (22 min).srt$15.srt
+16$algo-008/3 - 4 - O(n log n) Algorithm for Closest Pair I [Advanced - Optional] (32 min).mp4$16.mp4
+16$algo-008/3 - 4 - O(n log n) Algorithm for Closest Pair I [Advanced - Optional] (32 min).srt$16.srt
+17$algo-008/3 - 5 - O(n log n) Algorithm for Closest Pair II [Advanced - Optional] (19 min).mp4$17.mp4
+17$algo-008/3 - 5 - O(n log n) Algorithm for Closest Pair II [Advanced - Optional] (19 min).srt$17.srt
+18$algo-008/4 - 1 - Motivation (8 min).mp4$18.mp4
+18$algo-008/4 - 1 - Motivation (8 min).srt$18.srt
+19$algo-008/4 - 2 - Formal Statement (10 min).mp4$19.mp4
+19$algo-008/4 - 2 - Formal Statement (10 min).srt$19.srt
+20$algo-008/4 - 3 - Examples (13 min).mp4$20.mp4
+20$algo-008/4 - 3 - Examples (13 min).srt$20.srt
+21$algo-008/4 - 4 - Proof I (10 min).srt$21.srt
+22$algs4partI-008/10 - 1 - 2-3 Search Trees (16_55).mp4$22.mp4
+22$algs4partI-008/10 - 1 - 2-3 Search Trees (16_55).srt$22.srt
+23$algs4partI-008/10 - 2 - Red-Black BSTs (35_30).mp4$23.mp4
+23$algs4partI-008/10 - 2 - Red-Black BSTs (35_30).srt$23.srt
+24$algs4partI-008/10 - 3 - B-Trees (10_36) (optional).mp4$24.mp4
+24$algs4partI-008/10 - 3 - B-Trees (10_36) (optional).srt$24.srt
+25$algs4partI-008/11 - 1 - 1d Range Search (8_51).mp4$25.mp4
+25$algs4partI-008/11 - 1 - 1d Range Search (8_51).srt$25.srt
+26$algs4partI-008/11 - 2 - Line Segment Intersection (5_46).mp4$26.mp4
+26$algs4partI-008/11 - 2 - Line Segment Intersection (5_46).srt$26.srt
+27$algs4partI-008/11 - 3 - Kd-Trees (29_07).mp4$27.mp4
+27$algs4partI-008/11 - 3 - Kd-Trees (29_07).srt$27.srt
+28$algs4partI-008/11 - 4 - Interval Search Trees (13_47).mp4$28.mp4
+28$algs4partI-008/11 - 4 - Interval Search Trees (13_47).srt$28.srt
+29$algs4partI-008/11 - 5 - Rectangle Intersection (8_10).mp4$29.mp4
+29$algs4partI-008/11 - 5 - Rectangle Intersection (8_10).srt$29.srt
+30$algs4partI-008/2 - 1 - Dynamic Connectivity (10_22).mp4$30.mp4
+30$algs4partI-008/2 - 1 - Dynamic Connectivity (10_22).srt$30.srt
+31$algs4partI-008/2 - 2 - Quick Find (10_18).mp4$31.mp4
+31$algs4partI-008/2 - 2 - Quick Find (10_18).srt$31.srt
+32$algs4partI-008/2 - 3 - Quick Union (7_50).mp4$32.mp4
+32$algs4partI-008/2 - 3 - Quick Union (7_50).srt$32.srt
+33$algs4partI-008/2 - 4 - Quick-Union Improvements (13_02).mp4$33.mp4
+33$algs4partI-008/2 - 4 - Quick-Union Improvements (13_02).srt$33.srt
+34$algs4partI-008/2 - 5 - Union-Find Applications (9_22).mp4$34.mp4
+34$algs4partI-008/2 - 5 - Union-Find Applications (9_22).srt$34.srt
+35$algs4partI-008/3 - 1 - Analysis of Algorithms Introduction (8_14).mp4$35.mp4
+35$algs4partI-008/3 - 1 - Analysis of Algorithms Introduction (8_14).srt$35.srt
+36$algs4partI-008/3 - 2 - Observations (10_05).mp4$36.mp4
+36$algs4partI-008/3 - 2 - Observations (10_05).srt$36.srt
+37$algs4partI-008/3 - 3 - Mathematical Models (12_48).mp4$37.mp4
+37$algs4partI-008/3 - 3 - Mathematical Models (12_48).srt$37.srt
+38$algs4partI-008/3 - 4 - Order-of-Growth Classifications (14_39).mp4$38.mp4
+38$algs4partI-008/3 - 4 - Order-of-Growth Classifications (14_39).srt$38.srt
+39$algs4partI-008/3 - 5 - Theory of Algorithms (11_35).mp4$39.mp4
+39$algs4partI-008/3 - 5 - Theory of Algorithms (11_35).srt$39.srt
+40$algs4partI-008/3 - 6 - Memory (8_11).mp4$40.mp4
+40$algs4partI-008/3 - 6 - Memory (8_11).srt$40.srt
+41$algs4partI-008/4 - 1 - Stacks (16_24).mp4$41.mp4
+41$algs4partI-008/4 - 1 - Stacks (16_24).srt$41.srt
+42$algs4partI-008/4 - 2 - Resizing Arrays (9_56).mp4$42.mp4
+42$algs4partI-008/4 - 2 - Resizing Arrays (9_56).srt$42.srt
+43$algs4partI-008/4 - 3 - Queues (4_33).mp4$43.mp4
+43$algs4partI-008/4 - 3 - Queues (4_33).srt$43.srt
+44$algs4partI-008/4 - 4 - Generics (9_26).mp4$44.mp4
+44$algs4partI-008/4 - 4 - Generics (9_26).srt$44.srt
+45$algs4partI-008/4 - 5 - Iterators (7_16).mp4$45.mp4
+45$algs4partI-008/4 - 5 - Iterators (7_16).srt$45.srt
+46$algs4partI-008/4 - 6 - Stack and Queue Applications (13_25)  (optional) .mp4$46.mp4
+46$algs4partI-008/4 - 6 - Stack and Queue Applications (13_25)  (optional) .srt$46.srt
+47$algs4partI-008/5 - 1 - Sorting Introduction (14_43).mp4$47.mp4
+47$algs4partI-008/5 - 1 - Sorting Introduction (14_43).srt$47.srt
+48$algs4partI-008/5 - 2 - Selection Sort (6_59).mp4$48.mp4
+48$algs4partI-008/5 - 2 - Selection Sort (6_59).srt$48.srt
+49$algs4partI-008/5 - 3 - Insertion Sort (9_28).mp4$49.mp4
+49$algs4partI-008/5 - 3 - Insertion Sort (9_28).srt$49.srt
+50$algs4partI-008/5 - 4 - Shellsort (10_48).mp4$50.mp4
+50$algs4partI-008/5 - 4 - Shellsort (10_48).srt$50.srt
+51$algs4partI-008/5 - 5 - Shuffling (7_39).mp4$51.mp4
+51$algs4partI-008/5 - 5 - Shuffling (7_39).srt$51.srt
+52$algs4partI-008/5 - 6 - Convex Hull (13_50).mp4$52.mp4
+52$algs4partI-008/5 - 6 - Convex Hull (13_50).srt$52.srt
+53$algs4partI-008/6 - 1 - Mergesort (23_54).mp4$53.mp4
+53$algs4partI-008/6 - 1 - Mergesort (23_54).srt$53.srt
+54$algs4partI-008/6 - 2 - Bottom-up Mergesort (3_20).mp4$54.mp4
+54$algs4partI-008/6 - 2 - Bottom-up Mergesort (3_20).srt$54.srt
+55$algs4partI-008/6 - 3 - Sorting Complexity (9_05).mp4$55.mp4
+55$algs4partI-008/6 - 3 - Sorting Complexity (9_05).srt$55.srt
+56$algs4partI-008/6 - 4 - Comparators (6_43).mp4$56.mp4
+56$algs4partI-008/6 - 4 - Comparators (6_43).srt$56.srt
+57$algs4partI-008/6 - 5 - Stability (5_39).mp4$57.mp4
+57$algs4partI-008/6 - 5 - Stability (5_39).srt$57.srt
+58$algs4partI-008/7 - 1 - Quicksort (19_33).mp4$58.mp4
+58$algs4partI-008/7 - 1 - Quicksort (19_33).srt$58.srt
+59$algs4partI-008/7 - 2 - Selection (7_08).mp4$59.mp4
+59$algs4partI-008/7 - 2 - Selection (7_08).srt$59.srt
+60$algs4partI-008/7 - 3 - Duplicate Keys (11_25).mp4$60.mp4
+60$algs4partI-008/7 - 3 - Duplicate Keys (11_25).srt$60.srt
+61$algs4partI-008/7 - 4 - System Sorts (11_50).mp4$61.mp4
+61$algs4partI-008/7 - 4 - System Sorts (11_50).srt$61.srt
+62$algs4partI-008/8 - 1 - APIs and Elementary Implementations (12_52).mp4$62.mp4
+62$algs4partI-008/8 - 1 - APIs and Elementary Implementations (12_52).srt$62.srt
+63$algs4partI-008/8 - 2 - Binary Heaps (23_36).mp4$63.mp4
+63$algs4partI-008/8 - 2 - Binary Heaps (23_36).srt$63.srt
+64$algs4partI-008/8 - 3 - Heapsort (14_29).mp4$64.mp4
+64$algs4partI-008/8 - 3 - Heapsort (14_29).srt$64.srt
+65$algs4partI-008/8 - 4 - Event-Driven Simulation (22_38) (optional).mp4$65.mp4
+65$algs4partI-008/8 - 4 - Event-Driven Simulation (22_38) (optional).srt$65.srt
+66$algs4partI-008/9 - 1 - Symbol Table API (21_30).mp4$66.mp4
+66$algs4partI-008/9 - 1 - Symbol Table API (21_30).srt$66.srt
+67$algs4partI-008/9 - 2 - Elementary Implementations (9_03).mp4$67.mp4
+67$algs4partI-008/9 - 2 - Elementary Implementations (9_03).srt$67.srt
+68$algs4partI-008/9 - 3 - Ordered Operations (6_26).mp4$68.mp4
+68$algs4partI-008/9 - 3 - Ordered Operations (6_26).srt$68.srt
+69$algs4partI-008/9 - 4 - Binary Search Trees (19_56).mp4$69.mp4
+69$algs4partI-008/9 - 4 - Binary Search Trees (19_56).srt$69.srt
+70$algs4partI-008/9 - 5 - Ordered Operations in BSTs (10_31).mp4$70.mp4
+70$algs4partI-008/9 - 5 - Ordered Operations in BSTs (10_31).srt$70.srt
+71$algs4partI-008/9 - 6 - Deletion in BSTs (9_52).mp4$71.mp4
+71$algs4partI-008/9 - 6 - Deletion in BSTs (9_52).srt$71.srt
+72$innovativeideas-031/1 - 10 - Lecture 1.6 - The world_'s most innovative companies - Studio Experience (6_26).mp4$72.mp4
+72$innovativeideas-031/1 - 10 - Lecture 1.6 - The world_'s most innovative companies - Studio Experience (6_26).srt$72.srt
+73$innovativeideas-031/1 - 11 - Lecture 1.6 - The world_'s most innovative companies - Classroom Experience (17_45).mp4$73.mp4
+73$innovativeideas-031/1 - 11 - Lecture 1.6 - The world_'s most innovative companies - Classroom Experience (17_45).srt$73.srt
+74$innovativeideas-031/1 - 12 - Lecture 1.7 - Types of innovation - Studio Experience (14_05).mp4$74.mp4
+74$innovativeideas-031/1 - 12 - Lecture 1.7 - Types of innovation - Studio Experience (14_05).srt$74.srt
+75$innovativeideas-031/1 - 13 - Lecture 1.7 - Types of innovation - Classroom Experience (35_47).mp4$75.mp4
+75$innovativeideas-031/1 - 13 - Lecture 1.7 - Types of innovation - Classroom Experience (35_47).srt$75.srt
+76$innovativeideas-031/1 - 14 - Lecture 1.8 - Entrepreneurs and strategic decisions - Studio Experience (6_12).mp4$76.mp4
+76$innovativeideas-031/1 - 14 - Lecture 1.8 - Entrepreneurs and strategic decisions - Studio Experience (6_12).srt$76.srt
+77$innovativeideas-031/1 - 15 - Lecture 1.8 - Entrepreneurs and strategic decisions - Classroom Experience (20_20).mp4$77.mp4
+77$innovativeideas-031/1 - 15 - Lecture 1.8 - Entrepreneurs and strategic decisions - Classroom Experience (20_20).srt$77.srt
+78$innovativeideas-031/1 - 16 - Lecture 1.9 - The opportunity analysis canvas (3_39).mp4$78.mp4
+78$innovativeideas-031/1 - 16 - Lecture 1.9 - The opportunity analysis canvas (3_39).srt$78.srt
+79$innovativeideas-031/1 - 2 - Lecture 1.1 - Welcome (0_53).mp4$79.mp4
+79$innovativeideas-031/1 - 2 - Lecture 1.1 - Welcome (0_53).srt$79.srt
+80$innovativeideas-031/1 - 3 - Lecture 1.2 - Course overview (5_06).mp4$80.mp4
+80$innovativeideas-031/1 - 3 - Lecture 1.2 - Course overview (5_06).srt$80.srt
+81$innovativeideas-031/1 - 4 - Lecture 1.3 - What is entrepreneurship_ - Studio Experience (4_47).mp4$81.mp4
+81$innovativeideas-031/1 - 4 - Lecture 1.3 - What is entrepreneurship_ - Studio Experience (4_47).srt$81.srt
+82$innovativeideas-031/1 - 5 - Lecture 1.3 - What is entrepreneurship_ - Classroom Experience (17_37).mp4$82.mp4
+82$innovativeideas-031/1 - 5 - Lecture 1.3 - What is entrepreneurship_ - Classroom Experience (17_37).srt$82.srt
+83$innovativeideas-031/1 - 6 - Lecture 1.4 - Who is an entrepreneur_ - Studio Experience (7_19).mp4$83.mp4
+83$innovativeideas-031/1 - 6 - Lecture 1.4 - Who is an entrepreneur_ - Studio Experience (7_19).srt$83.srt
+84$innovativeideas-031/1 - 7 - Lecture 1.4 - Who is an entrepreneur_ - Classroom Experience (31_12).mp4$84.mp4
+84$innovativeideas-031/1 - 7 - Lecture 1.4 - Who is an entrepreneur_ - Classroom Experience (31_12).srt$84.srt
+85$innovativeideas-031/1 - 8 - Lecture 1.5 - Entrepreneurship, creativity, & innovation - Studio Experience (6_25).mp4$85.mp4
+85$innovativeideas-031/1 - 8 - Lecture 1.5 - Entrepreneurship, creativity, & innovation - Studio Experience (6_25).srt$85.srt
+86$innovativeideas-031/1 - 9 - Lecture 1.5 - Entrepreneurship, creativity, & innovation - Classroom Experience (20_37).mp4$86.mp4
+86$innovativeideas-031/1 - 9 - Lecture 1.5 - Entrepreneurship, creativity, & innovation - Classroom Experience (20_37).srt$86.srt
+87$innovativeideas-031/2 - 1 - Lecture 2.1 - Introduction to entrepreneurial mindset, motivations, and behaviors (2_02).mp4$87.mp4
+87$innovativeideas-031/2 - 1 - Lecture 2.1 - Introduction to entrepreneurial mindset, motivations, and behaviors (2_02).srt$87.srt
+88$innovativeideas-031/2 - 10 - Lecture 2.5 - Risk taking in entrepreneurial decision-making - Studio Experience (6_44).mp4$88.mp4
+88$innovativeideas-031/2 - 10 - Lecture 2.5 - Risk taking in entrepreneurial decision-making - Studio Experience (6_44).srt$88.srt
+89$innovativeideas-031/2 - 11 - Lecture 2.5 - Risk taking in entrepreneurial decision-making - Classroom Experience (24_21).mp4$89.mp4
+89$innovativeideas-031/2 - 11 - Lecture 2.5 - Risk taking in entrepreneurial decision-making - Classroom Experience (24_21).srt$89.srt
+90$innovativeideas-031/2 - 12 - Lecture 2.6 - Risk, uncertainty, and stakeholder involvement - Studio Experience (8_02).mp4$90.mp4
+90$innovativeideas-031/2 - 12 - Lecture 2.6 - Risk, uncertainty, and stakeholder involvement - Studio Experience (8_02).srt$90.srt
+91$innovativeideas-031/2 - 13 - Lecture 2.6 - Risk, uncertainty, and stakeholder involvement - Classroom Experience (32_15).mp4$91.mp4
+91$innovativeideas-031/2 - 13 - Lecture 2.6 - Risk, uncertainty, and stakeholder involvement - Classroom Experience (32_15).srt$91.srt
+92$innovativeideas-031/2 - 2 - Lecture 2.2 - Entrepreneurial mindset - Studio Experience (9_02).mp4$92.mp4
+92$innovativeideas-031/2 - 2 - Lecture 2.2 - Entrepreneurial mindset - Studio Experience (9_02).srt$92.srt
+93$innovativeideas-031/2 - 3 - Lecture 2.2 - Entrepreneurial mindset - Classroom Experience (24_03).mp4$93.mp4
+93$innovativeideas-031/2 - 3 - Lecture 2.2 - Entrepreneurial mindset - Classroom Experience (24_03).srt$93.srt
+94$innovativeideas-031/2 - 4 - Lecture 2.3 - Entrepreneurial motivations - Studio Experience (7_53).mp4$94.mp4
+94$innovativeideas-031/2 - 4 - Lecture 2.3 - Entrepreneurial motivations - Studio Experience (7_53).srt$94.srt
+95$innovativeideas-031/2 - 5 - Lecture 2.3 - Entrepreneurial motivations - Classroom Experience (22_24).mp4$95.mp4
+95$innovativeideas-031/2 - 5 - Lecture 2.3 - Entrepreneurial motivations - Classroom Experience (22_24).srt$95.srt
+96$innovativeideas-031/2 - 6 - Guest Lecture with U.S. Secretary of Commerce Penny Pritzker - Why am I an entrepreneur_ (2_02).mp4$96.mp4
+97$innovativeideas-031/2 - 7 - Guest Lecture with Alexa Von Tobel - Founder & CEO of LearnVest.com (8_06).mp4$97.mp4
+97$innovativeideas-031/2 - 7 - Guest Lecture with Alexa Von Tobel - Founder & CEO of LearnVest.com (8_06).srt$97.srt
+98$innovativeideas-031/2 - 8 - Lecture 2.4 - Entrepreneurial behaviors - Studio Experience (4_42).mp4$98.mp4
+98$innovativeideas-031/2 - 8 - Lecture 2.4 - Entrepreneurial behaviors - Studio Experience (4_42).srt$98.srt
+99$innovativeideas-031/2 - 9 - Lecture 2.4 - Entrepreneurial behaviors - Classroom Experience (13_32).mp4$99.mp4
+99$innovativeideas-031/2 - 9 - Lecture 2.4 - Entrepreneurial behaviors - Classroom Experience (13_32).srt$99.srt
+100$innovativeideas-031/3 - 1 - Lecture 3.1 - Introduction to industry understanding  - Classroom Experience (0_41).mp4$100.mp4
+100$innovativeideas-031/3 - 1 - Lecture 3.1 - Introduction to industry understanding  - Classroom Experience (0_41).srt$100.srt
+101$innovativeideas-031/3 - 10 - Lecture 3.6 - Competitive advantage - Studio Experience (15_36).mp4$101.mp4
+101$innovativeideas-031/3 - 10 - Lecture 3.6 - Competitive advantage - Studio Experience (15_36).srt$101.srt
+102$innovativeideas-031/3 - 11 - Lecture 3.6 - Competitive advantage - Classroom Experience (26_42).mp4$102.mp4
+102$innovativeideas-031/3 - 11 - Lecture 3.6 - Competitive advantage - Classroom Experience (26_42).srt$102.srt
+103$innovativeideas-031/3 - 12 - Lecture 3.7 - Learning curve - Studio Experience (5_52).mp4$103.mp4
+103$innovativeideas-031/3 - 12 - Lecture 3.7 - Learning curve - Studio Experience (5_52).srt$103.srt
+104$innovativeideas-031/3 - 13 - Lecture 3.7 - Learning curve  - Classroom Experience (19_41).mp4$104.mp4
+104$innovativeideas-031/3 - 13 - Lecture 3.7 - Learning curve  - Classroom Experience (19_41).srt$104.srt
+105$innovativeideas-031/3 - 14 - Lecture 3.8 - Complementary assets - Studio Experience (6_42).mp4$105.mp4
+105$innovativeideas-031/3 - 14 - Lecture 3.8 - Complementary assets - Studio Experience (6_42).srt$105.srt
+106$innovativeideas-031/3 - 15 - Lecture 3.8 - Complementary assets  - Classroom Experience (29_25).mp4$106.mp4
+106$innovativeideas-031/3 - 15 - Lecture 3.8 - Complementary assets  - Classroom Experience (29_25).srt$106.srt
+107$innovativeideas-031/3 - 16 - Lecture 3.9 - Reputation effects - Studio Experience (4_24).mp4$107.mp4
+107$innovativeideas-031/3 - 16 - Lecture 3.9 - Reputation effects - Studio Experience (4_24).srt$107.srt
+108$innovativeideas-031/3 - 17 - Lecture 3.9 - Reputation effects  - Classroom Experience (15_52).mp4$108.mp4
+108$innovativeideas-031/3 - 17 - Lecture 3.9 - Reputation effects  - Classroom Experience (15_52).srt$108.srt
+109$innovativeideas-031/3 - 2 - Lecture 3.2 - Knowledge conditions - Studio Experience (6_02).mp4$109.mp4
+109$innovativeideas-031/3 - 2 - Lecture 3.2 - Knowledge conditions - Studio Experience (6_02).srt$109.srt
+110$innovativeideas-031/3 - 3 - Lecture 3.2 - Knowledge conditions - Classroom Experience (26_24).mp4$110.mp4
+110$innovativeideas-031/3 - 3 - Lecture 3.2 - Knowledge conditions - Classroom Experience (26_24).srt$110.srt
+111$innovativeideas-031/3 - 4 - Lecture 3.3 - Demand conditions - Studio Experience (17_46).mp4$111.mp4
+111$innovativeideas-031/3 - 4 - Lecture 3.3 - Demand conditions - Studio Experience (17_46).srt$111.srt
+112$innovativeideas-031/3 - 5 - Lecture 3.3 - Demand conditions - Classroom Experience (39_26).mp4$112.mp4
+112$innovativeideas-031/3 - 5 - Lecture 3.3 - Demand conditions - Classroom Experience (39_26).srt$112.srt
+113$innovativeideas-031/3 - 6 - Lecture 3.4 - Industry lifecycle - Studio Experience (10_00).mp4$113.mp4
+113$innovativeideas-031/3 - 6 - Lecture 3.4 - Industry lifecycle - Studio Experience (10_00).srt$113.srt
+114$innovativeideas-031/3 - 7 - Lecture 3.4 - Industry lifecycle - Classroom Experience (34_56).mp4$114.mp4
+114$innovativeideas-031/3 - 7 - Lecture 3.4 - Industry lifecycle - Classroom Experience (34_56).srt$114.srt
+115$innovativeideas-031/3 - 9 - Lecture 3.5 - Industry structure (23_41).mp4$115.mp4
+115$innovativeideas-031/3 - 9 - Lecture 3.5 - Industry structure (23_41).srt$115.srt
+116$innovativeideas-031/4 - 1 - Lecture 4.1 - Introduction to customer understanding (0_49).mp4$116.mp4
+116$innovativeideas-031/4 - 1 - Lecture 4.1 - Introduction to customer understanding (0_49).srt$116.srt
+117$innovativeideas-031/4 - 10 - Lecture 4.5 - Strategic positioning - Studio Experience (8_07).mp4$117.mp4
+117$innovativeideas-031/4 - 10 - Lecture 4.5 - Strategic positioning - Studio Experience (8_07).srt$117.srt
+118$innovativeideas-031/4 - 11 - Lecture 4.5 - Strategic positioning  - Classroom Experience (28_48).mp4$118.mp4
+118$innovativeideas-031/4 - 11 - Lecture 4.5 - Strategic positioning  - Classroom Experience (28_48).srt$118.srt
+119$innovativeideas-031/4 - 12 - Lecture 4.6 - Strategic planning - Studio Experience (3_43).mp4$119.mp4
+119$innovativeideas-031/4 - 12 - Lecture 4.6 - Strategic planning - Studio Experience (3_43).srt$119.srt
+120$innovativeideas-031/4 - 13 - Lecture 4.6 - Strategic planning - Classroom Experience (26_11).mp4$120.mp4
+120$innovativeideas-031/4 - 13 - Lecture 4.6 - Strategic planning - Classroom Experience (26_11).srt$120.srt
+121$innovativeideas-031/4 - 14 - Lecture 4.7 - Value innovation - Studio Experience (6_06).mp4$121.mp4
+121$innovativeideas-031/4 - 14 - Lecture 4.7 - Value innovation - Studio Experience (6_06).srt$121.srt
+122$innovativeideas-031/4 - 15 - Lecture 4.7 - Value innovation - Classroom Experience (18_47).mp4$122.mp4
+122$innovativeideas-031/4 - 15 - Lecture 4.7 - Value innovation - Classroom Experience (18_47).srt$122.srt
+123$innovativeideas-031/4 - 16 - Lecture 4.8 - Opportunity identification - Studio Experience (6_38).mp4$123.mp4
+123$innovativeideas-031/4 - 16 - Lecture 4.8 - Opportunity identification - Studio Experience (6_38).srt$123.srt
+124$innovativeideas-031/4 - 17 - Lecture 4.8 - Opportunity identification - Classroom Experience (29_59).mp4$124.mp4
+124$innovativeideas-031/4 - 17 - Lecture 4.8 - Opportunity identification - Classroom Experience (29_59).srt$124.srt
+125$innovativeideas-031/4 - 19 - Lecture 4.9 - Business models (38_30).mp4$125.mp4
+125$innovativeideas-031/4 - 19 - Lecture 4.9 - Business models (38_30).srt$125.srt
+126$innovativeideas-031/4 - 2 - Lecture 4.2 - Macro changes that increase new venture opportunities - Studio Experience (7_10).mp4$126.mp4
+126$innovativeideas-031/4 - 2 - Lecture 4.2 - Macro changes that increase new venture opportunities - Studio Experience (7_10).srt$126.srt
+127$innovativeideas-031/4 - 3 - Lecture 4.2 - Macro changes that increase new venture opportunities  - Classroom Experience (18_38).mp4$127.mp4
+127$innovativeideas-031/4 - 3 - Lecture 4.2 - Macro changes that increase new venture opportunities  - Classroom Experience (18_38).srt$127.srt
+128$innovativeideas-031/4 - 4 - Guest Lecture with U.S. Secretary of Commerce Penny Pritzker - How Can Government and Entrepreneurs Work Together_ (2_27).mp4$128.mp4
+129$innovativeideas-031/4 - 5 - Guest Lecture with U.S. Secretary of Commerce Penny Pritzker - Why Is Skills Training and Development Important For Entrepreneurs and Government_ (1_15).mp4$129.mp4
+130$innovativeideas-031/4 - 6 - Lecture 4.3 - Exploring real market needs - Studio Experience (6_36).mp4$130.mp4
+130$innovativeideas-031/4 - 6 - Lecture 4.3 - Exploring real market needs - Studio Experience (6_36).srt$130.srt
+131$innovativeideas-031/4 - 7 - Lecture 4.3 - Exploring real market needs  - Classroom Experience (28_13).mp4$131.mp4
+131$innovativeideas-031/4 - 7 - Lecture 4.3 - Exploring real market needs  - Classroom Experience (28_13).srt$131.srt
+132$innovativeideas-031/4 - 8 - Lecture 4.4 - Satisfying real market needs - Studio Experience (8_01).mp4$132.mp4
+132$innovativeideas-031/4 - 8 - Lecture 4.4 - Satisfying real market needs - Studio Experience (8_01).srt$132.srt
+133$innovativeideas-031/4 - 9 - Lecture 4.4 - Satisfying real market needs  - Classroom Experience (22_37).mp4$133.mp4
+133$innovativeideas-031/4 - 9 - Lecture 4.4 - Satisfying real market needs  - Classroom Experience (22_37).srt$133.srt
+134$popularity-001/1 - 1 - 1.1_ Introduction to Popularity - 11_12.mp4$134.mp4
+134$popularity-001/1 - 1 - 1.1_ Introduction to Popularity - 11_12.srt$134.srt
+135$popularity-001/1 - 2 - 1.2_ Is popularity in our DNA_ - 13_25.mp4$135.mp4
+135$popularity-001/1 - 2 - 1.2_ Is popularity in our DNA_ - 13_25.srt$135.srt
+136$popularity-001/1 - 3 - 1.3_ How popularity affects us thousands of times a day. - 15_02.mp4$136.mp4
+136$popularity-001/1 - 3 - 1.3_ How popularity affects us thousands of times a day. - 15_02.srt$136.srt
+137$popularity-001/1 - 4 - 1.4_ Do you have a Hostile Attribution Bias_ - 9_12.mp4$137.mp4
+137$popularity-001/1 - 4 - 1.4_ Do you have a Hostile Attribution Bias_ - 9_12.srt$137.srt
+138$popularity-001/1 - 5 - 1.5_ Do you have a Rejection Sensitivity Bias_ - 6_28.mp4$138.mp4
+138$popularity-001/1 - 5 - 1.5_ Do you have a Rejection Sensitivity Bias_ - 6_28.srt$138.srt
+139$popularity-001/2 - 1 - 2.1_ Who can accurately tell you about a child¡¯s popularity_ - 12_07.mp4$139.mp4
+139$popularity-001/2 - 1 - 2.1_ Who can accurately tell you about a child¡¯s popularity_ - 12_07.srt$139.srt
+140$popularity-001/2 - 2 - 2.2_ Asking peers about children¡¯s popularity - 6_10.mp4$140.mp4
+140$popularity-001/2 - 2 - 2.2_ Asking peers about children¡¯s popularity - 6_10.srt$140.srt
+141$popularity-001/2 - 3 - 2.3_ What are the 5 categories of ¡°Sociometric popularity¡±_ - 7_03.mp4$141.mp4
+141$popularity-001/2 - 3 - 2.3_ What are the 5 categories of ¡°Sociometric popularity¡±_ - 7_03.srt$141.srt
+142$popularity-001/2 - 4 - 2.4_ Does popularity change when moving to a new context_ - 5_02.mp4$142.mp4
+142$popularity-001/2 - 4 - 2.4_ Does popularity change when moving to a new context_ - 5_02.srt$142.srt
+143$popularity-001/2 - 5 - 2.5_ A new form of popularity in adolescence_ - 9_06.mp4$143.mp4
+143$popularity-001/2 - 5 - 2.5_ A new form of popularity in adolescence_ - 9_06.srt$143.srt
+144$popularity-001/3 - 1 - 3.1_ What social behaviors make people popular so quickly_ - 10_47.mp4$144.mp4
+144$popularity-001/3 - 1 - 3.1_ What social behaviors make people popular so quickly_ - 10_47.srt$144.srt
+145$popularity-001/3 - 2 - 3.2_ Other social behaviors that make people popular - 7_12.mp4$145.mp4
+145$popularity-001/3 - 2 - 3.2_ Other social behaviors that make people popular - 7_12.srt$145.srt
+146$popularity-001/3 - 3 - 3.3_ What forms of aggression are related to popularity and rejection_ - 6_13.mp4$146.mp4
+146$popularity-001/3 - 3 - 3.3_ What forms of aggression are related to popularity and rejection_ - 6_13.srt$146.srt
+147$popularity-001/3 - 4 - 3.4_ What functions of aggression are related to popularity and rejection_ - 11_49.mp4$147.mp4
+147$popularity-001/3 - 4 - 3.4_ What functions of aggression are related to popularity and rejection_ - 11_49.srt$147.srt
+148$popularity-001/4 - 1 - 4.1_ Why is facial attractiveness so strongly related to popularity among youth_ - 13_35.mp4$148.mp4
+148$popularity-001/4 - 1 - 4.1_ Why is facial attractiveness so strongly related to popularity among youth_ - 13_35.srt$148.srt
+149$popularity-001/4 - 2 - 4.2_ Body Attractiveness and Popularity - 11_32.mp4$149.mp4
+149$popularity-001/4 - 2 - 4.2_ Body Attractiveness and Popularity - 11_32.srt$149.srt
+150$popularity-001/4 - 3 - 4.3_ Can smart kids be popular_ - 13_38.mp4$150.mp4
+150$popularity-001/4 - 3 - 4.3_ Can smart kids be popular_ - 13_38.srt$150.srt
+151$popularity-001/4 - 4 - 4.4_ How did your parents determine how popular you were_ - 14_18.mp4$151.mp4
+151$popularity-001/4 - 4 - 4.4_ How did your parents determine how popular you were_ - 14_18.srt$151.srt
+152$popularity-001/5 - 1 - 5.1_ How do we study the effects of popularity on later outcomes_ - 8_53.mp4$152.mp4
+152$popularity-001/5 - 1 - 5.1_ How do we study the effects of popularity on later outcomes_ - 8_53.srt$152.srt
+153$popularity-001/5 - 2 - 5.2_ How does popularity predict delinquency_ - 9_45.mp4$153.mp4
+153$popularity-001/5 - 2 - 5.2_ How does popularity predict delinquency_ - 9_45.srt$153.srt
+154$popularity-001/5 - 3 - 5.3_ Different Types of Rejected Children - 6_31.mp4$154.mp4
+154$popularity-001/5 - 3 - 5.3_ Different Types of Rejected Children - 6_31.srt$154.srt
+155$popularity-001/5 - 4 - 5.4_ Why do Rejected-Aggressive children have so many difficulties_ - 6_25.mp4$155.mp4
+155$popularity-001/5 - 4 - 5.4_ Why do Rejected-Aggressive children have so many difficulties_ - 6_25.srt$155.srt
+156$popularity-001/5 - 5 - 5.5_ How does popularity predict internalizing symptoms_ - 11_57.mp4$156.mp4
+156$popularity-001/5 - 5 - 5.5_ How does popularity predict internalizing symptoms_ - 11_57.srt$156.srt
+157$popularity-001/5 - 6 - 5.6_ How does depression predict peer rejection_ - 7_34.mp4$157.mp4
+157$popularity-001/5 - 6 - 5.6_ How does depression predict peer rejection_ - 7_34.srt$157.srt
+0$algo-008/1 - 1 - Why Study Algorithms _ (4 min).srt$0.srt
+1$algo-008/1 - 2 - Integer Multiplication (9 min).srt$1.srt
+2$algo-008/1 - 3 - Karatsuba Multiplication (13 min).mp4$2.mp4
+2$algo-008/1 - 3 - Karatsuba Multiplication (13 min).srt$2.srt
+3$algo-008/1 - 4 - About the Course (17 min).mp4$3.mp4
+3$algo-008/1 - 4 - About the Course (17 min).srt$3.srt
+4$algo-008/1 - 5 - Merge Sort_ Motivation and Example (9 min).mp4$4.mp4
+4$algo-008/1 - 5 - Merge Sort_ Motivation and Example (9 min).srt$4.srt
+5$algo-008/1 - 6 - Merge Sort_ Pseudocode (13 min).mp4$5.mp4
+5$algo-008/1 - 6 - Merge Sort_ Pseudocode (13 min).srt$5.srt
+6$algo-008/1 - 7 - Merge Sort_ Analysis (9 min).mp4$6.mp4
+6$algo-008/1 - 7 - Merge Sort_ Analysis (9 min).srt$6.srt
+7$algo-008/1 - 8 - Guiding Principles for Analysis of Algorithms (15 min).mp4$7.mp4
+7$algo-008/1 - 8 - Guiding Principles for Analysis of Algorithms (15 min).srt$7.srt
+8$algo-008/2 - 1 - The Gist (14 min).mp4$8.mp4
+8$algo-008/2 - 1 - The Gist (14 min).srt$8.srt
+9$algo-008/2 - 2 - Big-Oh Notation (4 min).srt$9.srt
+10$algo-008/2 - 3 - Basic Examples (7 min).mp4$10.mp4
+10$algo-008/2 - 3 - Basic Examples (7 min).srt$10.srt
+11$algo-008/2 - 4 - Big Omega and Theta (7 min).mp4$11.mp4
+11$algo-008/2 - 4 - Big Omega and Theta (7 min).srt$11.srt
+12$algo-008/2 - 5 - Additional Examples [Review - Optional] (8 min).mp4$12.mp4
+12$algo-008/2 - 5 - Additional Examples [Review - Optional] (8 min).srt$12.srt
+13$algo-008/3 - 1 - O(n log n) Algorithm for Counting Inversions I (13 min).mp4$13.mp4
+13$algo-008/3 - 1 - O(n log n) Algorithm for Counting Inversions I (13 min).srt$13.srt
+14$algo-008/3 - 2 - O(n log n) Algorithm for Counting Inversions II (17 min).mp4$14.mp4
+14$algo-008/3 - 2 - O(n log n) Algorithm for Counting Inversions II (17 min).srt$14.srt
+15$algo-008/3 - 3 - Strassen_'s Subcubic Matrix Multiplication Algorithm (22 min).mp4$15.mp4
+15$algo-008/3 - 3 - Strassen_'s Subcubic Matrix Multiplication Algorithm (22 min).srt$15.srt
+16$algo-008/3 - 4 - O(n log n) Algorithm for Closest Pair I [Advanced - Optional] (32 min).mp4$16.mp4
+16$algo-008/3 - 4 - O(n log n) Algorithm for Closest Pair I [Advanced - Optional] (32 min).srt$16.srt
+17$algo-008/3 - 5 - O(n log n) Algorithm for Closest Pair II [Advanced - Optional] (19 min).mp4$17.mp4
+17$algo-008/3 - 5 - O(n log n) Algorithm for Closest Pair II [Advanced - Optional] (19 min).srt$17.srt
+18$algo-008/4 - 1 - Motivation (8 min).mp4$18.mp4
+18$algo-008/4 - 1 - Motivation (8 min).srt$18.srt
+19$algo-008/4 - 2 - Formal Statement (10 min).mp4$19.mp4
+19$algo-008/4 - 2 - Formal Statement (10 min).srt$19.srt
+20$algo-008/4 - 3 - Examples (13 min).mp4$20.mp4
+20$algo-008/4 - 3 - Examples (13 min).srt$20.srt
+21$algo-008/4 - 4 - Proof I (10 min).srt$21.srt
+22$algs4partI-008/10 - 1 - 2-3 Search Trees (16_55).mp4$22.mp4
+22$algs4partI-008/10 - 1 - 2-3 Search Trees (16_55).srt$22.srt
+23$algs4partI-008/10 - 2 - Red-Black BSTs (35_30).mp4$23.mp4
+23$algs4partI-008/10 - 2 - Red-Black BSTs (35_30).srt$23.srt
+24$algs4partI-008/10 - 3 - B-Trees (10_36) (optional).mp4$24.mp4
+24$algs4partI-008/10 - 3 - B-Trees (10_36) (optional).srt$24.srt
+25$algs4partI-008/11 - 1 - 1d Range Search (8_51).mp4$25.mp4
+25$algs4partI-008/11 - 1 - 1d Range Search (8_51).srt$25.srt
+26$algs4partI-008/11 - 2 - Line Segment Intersection (5_46).mp4$26.mp4
+26$algs4partI-008/11 - 2 - Line Segment Intersection (5_46).srt$26.srt
+27$algs4partI-008/11 - 3 - Kd-Trees (29_07).mp4$27.mp4
+27$algs4partI-008/11 - 3 - Kd-Trees (29_07).srt$27.srt
+28$algs4partI-008/11 - 4 - Interval Search Trees (13_47).mp4$28.mp4
+28$algs4partI-008/11 - 4 - Interval Search Trees (13_47).srt$28.srt
+29$algs4partI-008/11 - 5 - Rectangle Intersection (8_10).mp4$29.mp4
+29$algs4partI-008/11 - 5 - Rectangle Intersection (8_10).srt$29.srt
+30$algs4partI-008/2 - 1 - Dynamic Connectivity (10_22).mp4$30.mp4
+30$algs4partI-008/2 - 1 - Dynamic Connectivity (10_22).srt$30.srt
+31$algs4partI-008/2 - 2 - Quick Find (10_18).mp4$31.mp4
+31$algs4partI-008/2 - 2 - Quick Find (10_18).srt$31.srt
+32$algs4partI-008/2 - 3 - Quick Union (7_50).mp4$32.mp4
+32$algs4partI-008/2 - 3 - Quick Union (7_50).srt$32.srt
+33$algs4partI-008/2 - 4 - Quick-Union Improvements (13_02).mp4$33.mp4
+33$algs4partI-008/2 - 4 - Quick-Union Improvements (13_02).srt$33.srt
+34$algs4partI-008/2 - 5 - Union-Find Applications (9_22).mp4$34.mp4
+34$algs4partI-008/2 - 5 - Union-Find Applications (9_22).srt$34.srt
+35$algs4partI-008/3 - 1 - Analysis of Algorithms Introduction (8_14).mp4$35.mp4
+35$algs4partI-008/3 - 1 - Analysis of Algorithms Introduction (8_14).srt$35.srt
+36$algs4partI-008/3 - 2 - Observations (10_05).mp4$36.mp4
+36$algs4partI-008/3 - 2 - Observations (10_05).srt$36.srt
+37$algs4partI-008/3 - 3 - Mathematical Models (12_48).mp4$37.mp4
+37$algs4partI-008/3 - 3 - Mathematical Models (12_48).srt$37.srt
+38$algs4partI-008/3 - 4 - Order-of-Growth Classifications (14_39).mp4$38.mp4
+38$algs4partI-008/3 - 4 - Order-of-Growth Classifications (14_39).srt$38.srt
+39$algs4partI-008/3 - 5 - Theory of Algorithms (11_35).mp4$39.mp4
+39$algs4partI-008/3 - 5 - Theory of Algorithms (11_35).srt$39.srt
+40$algs4partI-008/3 - 6 - Memory (8_11).mp4$40.mp4
+40$algs4partI-008/3 - 6 - Memory (8_11).srt$40.srt
+41$algs4partI-008/4 - 1 - Stacks (16_24).mp4$41.mp4
+41$algs4partI-008/4 - 1 - Stacks (16_24).srt$41.srt
+42$algs4partI-008/4 - 2 - Resizing Arrays (9_56).mp4$42.mp4
+42$algs4partI-008/4 - 2 - Resizing Arrays (9_56).srt$42.srt
+43$algs4partI-008/4 - 3 - Queues (4_33).mp4$43.mp4
+43$algs4partI-008/4 - 3 - Queues (4_33).srt$43.srt
+44$algs4partI-008/4 - 4 - Generics (9_26).mp4$44.mp4
+44$algs4partI-008/4 - 4 - Generics (9_26).srt$44.srt
+45$algs4partI-008/4 - 5 - Iterators (7_16).mp4$45.mp4
+45$algs4partI-008/4 - 5 - Iterators (7_16).srt$45.srt
+46$algs4partI-008/4 - 6 - Stack and Queue Applications (13_25)  (optional) .mp4$46.mp4
+46$algs4partI-008/4 - 6 - Stack and Queue Applications (13_25)  (optional) .srt$46.srt
+47$algs4partI-008/5 - 1 - Sorting Introduction (14_43).mp4$47.mp4
+47$algs4partI-008/5 - 1 - Sorting Introduction (14_43).srt$47.srt
+48$algs4partI-008/5 - 2 - Selection Sort (6_59).mp4$48.mp4
+48$algs4partI-008/5 - 2 - Selection Sort (6_59).srt$48.srt
+49$algs4partI-008/5 - 3 - Insertion Sort (9_28).mp4$49.mp4
+49$algs4partI-008/5 - 3 - Insertion Sort (9_28).srt$49.srt
+50$algs4partI-008/5 - 4 - Shellsort (10_48).mp4$50.mp4
+50$algs4partI-008/5 - 4 - Shellsort (10_48).srt$50.srt
+51$algs4partI-008/5 - 5 - Shuffling (7_39).mp4$51.mp4
+51$algs4partI-008/5 - 5 - Shuffling (7_39).srt$51.srt
+52$algs4partI-008/5 - 6 - Convex Hull (13_50).mp4$52.mp4
+52$algs4partI-008/5 - 6 - Convex Hull (13_50).srt$52.srt
+53$algs4partI-008/6 - 1 - Mergesort (23_54).mp4$53.mp4
+53$algs4partI-008/6 - 1 - Mergesort (23_54).srt$53.srt
+54$algs4partI-008/6 - 2 - Bottom-up Mergesort (3_20).mp4$54.mp4
+54$algs4partI-008/6 - 2 - Bottom-up Mergesort (3_20).srt$54.srt
+55$algs4partI-008/6 - 3 - Sorting Complexity (9_05).mp4$55.mp4
+55$algs4partI-008/6 - 3 - Sorting Complexity (9_05).srt$55.srt
+56$algs4partI-008/6 - 4 - Comparators (6_43).mp4$56.mp4
+56$algs4partI-008/6 - 4 - Comparators (6_43).srt$56.srt
+57$algs4partI-008/6 - 5 - Stability (5_39).mp4$57.mp4
+57$algs4partI-008/6 - 5 - Stability (5_39).srt$57.srt
+58$algs4partI-008/7 - 1 - Quicksort (19_33).mp4$58.mp4
+58$algs4partI-008/7 - 1 - Quicksort (19_33).srt$58.srt
+59$algs4partI-008/7 - 2 - Selection (7_08).mp4$59.mp4
+59$algs4partI-008/7 - 2 - Selection (7_08).srt$59.srt
+60$algs4partI-008/7 - 3 - Duplicate Keys (11_25).mp4$60.mp4
+60$algs4partI-008/7 - 3 - Duplicate Keys (11_25).srt$60.srt
+61$algs4partI-008/7 - 4 - System Sorts (11_50).mp4$61.mp4
+61$algs4partI-008/7 - 4 - System Sorts (11_50).srt$61.srt
+62$algs4partI-008/8 - 1 - APIs and Elementary Implementations (12_52).mp4$62.mp4
+62$algs4partI-008/8 - 1 - APIs and Elementary Implementations (12_52).srt$62.srt
+63$algs4partI-008/8 - 2 - Binary Heaps (23_36).mp4$63.mp4
+63$algs4partI-008/8 - 2 - Binary Heaps (23_36).srt$63.srt
+64$algs4partI-008/8 - 3 - Heapsort (14_29).mp4$64.mp4
+64$algs4partI-008/8 - 3 - Heapsort (14_29).srt$64.srt
+65$algs4partI-008/8 - 4 - Event-Driven Simulation (22_38) (optional).mp4$65.mp4
+65$algs4partI-008/8 - 4 - Event-Driven Simulation (22_38) (optional).srt$65.srt
+66$algs4partI-008/9 - 1 - Symbol Table API (21_30).mp4$66.mp4
+66$algs4partI-008/9 - 1 - Symbol Table API (21_30).srt$66.srt
+67$algs4partI-008/9 - 2 - Elementary Implementations (9_03).mp4$67.mp4
+67$algs4partI-008/9 - 2 - Elementary Implementations (9_03).srt$67.srt
+68$algs4partI-008/9 - 3 - Ordered Operations (6_26).mp4$68.mp4
+68$algs4partI-008/9 - 3 - Ordered Operations (6_26).srt$68.srt
+69$algs4partI-008/9 - 4 - Binary Search Trees (19_56).mp4$69.mp4
+69$algs4partI-008/9 - 4 - Binary Search Trees (19_56).srt$69.srt
+70$algs4partI-008/9 - 5 - Ordered Operations in BSTs (10_31).mp4$70.mp4
+70$algs4partI-008/9 - 5 - Ordered Operations in BSTs (10_31).srt$70.srt
+71$algs4partI-008/9 - 6 - Deletion in BSTs (9_52).mp4$71.mp4
+71$algs4partI-008/9 - 6 - Deletion in BSTs (9_52).srt$71.srt
+72$innovativeideas-031/1 - 10 - Lecture 1.6 - The world_'s most innovative companies - Studio Experience (6_26).mp4$72.mp4
+72$innovativeideas-031/1 - 10 - Lecture 1.6 - The world_'s most innovative companies - Studio Experience (6_26).srt$72.srt
+73$innovativeideas-031/1 - 11 - Lecture 1.6 - The world_'s most innovative companies - Classroom Experience (17_45).mp4$73.mp4
+73$innovativeideas-031/1 - 11 - Lecture 1.6 - The world_'s most innovative companies - Classroom Experience (17_45).srt$73.srt
+74$innovativeideas-031/1 - 12 - Lecture 1.7 - Types of innovation - Studio Experience (14_05).mp4$74.mp4
+74$innovativeideas-031/1 - 12 - Lecture 1.7 - Types of innovation - Studio Experience (14_05).srt$74.srt
+75$innovativeideas-031/1 - 13 - Lecture 1.7 - Types of innovation - Classroom Experience (35_47).mp4$75.mp4
+75$innovativeideas-031/1 - 13 - Lecture 1.7 - Types of innovation - Classroom Experience (35_47).srt$75.srt
+76$innovativeideas-031/1 - 14 - Lecture 1.8 - Entrepreneurs and strategic decisions - Studio Experience (6_12).mp4$76.mp4
+76$innovativeideas-031/1 - 14 - Lecture 1.8 - Entrepreneurs and strategic decisions - Studio Experience (6_12).srt$76.srt
+77$innovativeideas-031/1 - 15 - Lecture 1.8 - Entrepreneurs and strategic decisions - Classroom Experience (20_20).mp4$77.mp4
+77$innovativeideas-031/1 - 15 - Lecture 1.8 - Entrepreneurs and strategic decisions - Classroom Experience (20_20).srt$77.srt
+78$innovativeideas-031/1 - 16 - Lecture 1.9 - The opportunity analysis canvas (3_39).mp4$78.mp4
+78$innovativeideas-031/1 - 16 - Lecture 1.9 - The opportunity analysis canvas (3_39).srt$78.srt
+79$innovativeideas-031/1 - 2 - Lecture 1.1 - Welcome (0_53).mp4$79.mp4
+79$innovativeideas-031/1 - 2 - Lecture 1.1 - Welcome (0_53).srt$79.srt
+80$innovativeideas-031/1 - 3 - Lecture 1.2 - Course overview (5_06).mp4$80.mp4
+80$innovativeideas-031/1 - 3 - Lecture 1.2 - Course overview (5_06).srt$80.srt
+81$innovativeideas-031/1 - 4 - Lecture 1.3 - What is entrepreneurship_ - Studio Experience (4_47).mp4$81.mp4
+81$innovativeideas-031/1 - 4 - Lecture 1.3 - What is entrepreneurship_ - Studio Experience (4_47).srt$81.srt
+82$innovativeideas-031/1 - 5 - Lecture 1.3 - What is entrepreneurship_ - Classroom Experience (17_37).mp4$82.mp4
+82$innovativeideas-031/1 - 5 - Lecture 1.3 - What is entrepreneurship_ - Classroom Experience (17_37).srt$82.srt
+83$innovativeideas-031/1 - 6 - Lecture 1.4 - Who is an entrepreneur_ - Studio Experience (7_19).mp4$83.mp4
+83$innovativeideas-031/1 - 6 - Lecture 1.4 - Who is an entrepreneur_ - Studio Experience (7_19).srt$83.srt
+84$innovativeideas-031/1 - 7 - Lecture 1.4 - Who is an entrepreneur_ - Classroom Experience (31_12).mp4$84.mp4
+84$innovativeideas-031/1 - 7 - Lecture 1.4 - Who is an entrepreneur_ - Classroom Experience (31_12).srt$84.srt
+85$innovativeideas-031/1 - 8 - Lecture 1.5 - Entrepreneurship, creativity, & innovation - Studio Experience (6_25).mp4$85.mp4
+85$innovativeideas-031/1 - 8 - Lecture 1.5 - Entrepreneurship, creativity, & innovation - Studio Experience (6_25).srt$85.srt
+86$innovativeideas-031/1 - 9 - Lecture 1.5 - Entrepreneurship, creativity, & innovation - Classroom Experience (20_37).mp4$86.mp4
+86$innovativeideas-031/1 - 9 - Lecture 1.5 - Entrepreneurship, creativity, & innovation - Classroom Experience (20_37).srt$86.srt
+87$innovativeideas-031/2 - 1 - Lecture 2.1 - Introduction to entrepreneurial mindset, motivations, and behaviors (2_02).mp4$87.mp4
+87$innovativeideas-031/2 - 1 - Lecture 2.1 - Introduction to entrepreneurial mindset, motivations, and behaviors (2_02).srt$87.srt
+88$innovativeideas-031/2 - 10 - Lecture 2.5 - Risk taking in entrepreneurial decision-making - Studio Experience (6_44).mp4$88.mp4
+88$innovativeideas-031/2 - 10 - Lecture 2.5 - Risk taking in entrepreneurial decision-making - Studio Experience (6_44).srt$88.srt
+89$innovativeideas-031/2 - 11 - Lecture 2.5 - Risk taking in entrepreneurial decision-making - Classroom Experience (24_21).mp4$89.mp4
+89$innovativeideas-031/2 - 11 - Lecture 2.5 - Risk taking in entrepreneurial decision-making - Classroom Experience (24_21).srt$89.srt
+90$innovativeideas-031/2 - 12 - Lecture 2.6 - Risk, uncertainty, and stakeholder involvement - Studio Experience (8_02).mp4$90.mp4
+90$innovativeideas-031/2 - 12 - Lecture 2.6 - Risk, uncertainty, and stakeholder involvement - Studio Experience (8_02).srt$90.srt
+91$innovativeideas-031/2 - 13 - Lecture 2.6 - Risk, uncertainty, and stakeholder involvement - Classroom Experience (32_15).mp4$91.mp4
+91$innovativeideas-031/2 - 13 - Lecture 2.6 - Risk, uncertainty, and stakeholder involvement - Classroom Experience (32_15).srt$91.srt
+92$innovativeideas-031/2 - 2 - Lecture 2.2 - Entrepreneurial mindset - Studio Experience (9_02).mp4$92.mp4
+92$innovativeideas-031/2 - 2 - Lecture 2.2 - Entrepreneurial mindset - Studio Experience (9_02).srt$92.srt
+93$innovativeideas-031/2 - 3 - Lecture 2.2 - Entrepreneurial mindset - Classroom Experience (24_03).mp4$93.mp4
+93$innovativeideas-031/2 - 3 - Lecture 2.2 - Entrepreneurial mindset - Classroom Experience (24_03).srt$93.srt
+94$innovativeideas-031/2 - 4 - Lecture 2.3 - Entrepreneurial motivations - Studio Experience (7_53).mp4$94.mp4
+94$innovativeideas-031/2 - 4 - Lecture 2.3 - Entrepreneurial motivations - Studio Experience (7_53).srt$94.srt
+95$innovativeideas-031/2 - 5 - Lecture 2.3 - Entrepreneurial motivations - Classroom Experience (22_24).mp4$95.mp4
+95$innovativeideas-031/2 - 5 - Lecture 2.3 - Entrepreneurial motivations - Classroom Experience (22_24).srt$95.srt
+96$innovativeideas-031/2 - 6 - Guest Lecture with U.S. Secretary of Commerce Penny Pritzker - Why am I an entrepreneur_ (2_02).mp4$96.mp4
+97$innovativeideas-031/2 - 7 - Guest Lecture with Alexa Von Tobel - Founder & CEO of LearnVest.com (8_06).mp4$97.mp4
+97$innovativeideas-031/2 - 7 - Guest Lecture with Alexa Von Tobel - Founder & CEO of LearnVest.com (8_06).srt$97.srt
+98$innovativeideas-031/2 - 8 - Lecture 2.4 - Entrepreneurial behaviors - Studio Experience (4_42).mp4$98.mp4
+98$innovativeideas-031/2 - 8 - Lecture 2.4 - Entrepreneurial behaviors - Studio Experience (4_42).srt$98.srt
+99$innovativeideas-031/2 - 9 - Lecture 2.4 - Entrepreneurial behaviors - Classroom Experience (13_32).mp4$99.mp4
+99$innovativeideas-031/2 - 9 - Lecture 2.4 - Entrepreneurial behaviors - Classroom Experience (13_32).srt$99.srt
+100$innovativeideas-031/3 - 1 - Lecture 3.1 - Introduction to industry understanding  - Classroom Experience (0_41).mp4$100.mp4
+100$innovativeideas-031/3 - 1 - Lecture 3.1 - Introduction to industry understanding  - Classroom Experience (0_41).srt$100.srt
+101$innovativeideas-031/3 - 10 - Lecture 3.6 - Competitive advantage - Studio Experience (15_36).mp4$101.mp4
+101$innovativeideas-031/3 - 10 - Lecture 3.6 - Competitive advantage - Studio Experience (15_36).srt$101.srt
+102$innovativeideas-031/3 - 11 - Lecture 3.6 - Competitive advantage - Classroom Experience (26_42).mp4$102.mp4
+102$innovativeideas-031/3 - 11 - Lecture 3.6 - Competitive advantage - Classroom Experience (26_42).srt$102.srt
+103$innovativeideas-031/3 - 12 - Lecture 3.7 - Learning curve - Studio Experience (5_52).mp4$103.mp4
+103$innovativeideas-031/3 - 12 - Lecture 3.7 - Learning curve - Studio Experience (5_52).srt$103.srt
+104$innovativeideas-031/3 - 13 - Lecture 3.7 - Learning curve  - Classroom Experience (19_41).mp4$104.mp4
+104$innovativeideas-031/3 - 13 - Lecture 3.7 - Learning curve  - Classroom Experience (19_41).srt$104.srt
+105$innovativeideas-031/3 - 14 - Lecture 3.8 - Complementary assets - Studio Experience (6_42).mp4$105.mp4
+105$innovativeideas-031/3 - 14 - Lecture 3.8 - Complementary assets - Studio Experience (6_42).srt$105.srt
+106$innovativeideas-031/3 - 15 - Lecture 3.8 - Complementary assets  - Classroom Experience (29_25).mp4$106.mp4
+106$innovativeideas-031/3 - 15 - Lecture 3.8 - Complementary assets  - Classroom Experience (29_25).srt$106.srt
+107$innovativeideas-031/3 - 16 - Lecture 3.9 - Reputation effects - Studio Experience (4_24).mp4$107.mp4
+107$innovativeideas-031/3 - 16 - Lecture 3.9 - Reputation effects - Studio Experience (4_24).srt$107.srt
+108$innovativeideas-031/3 - 17 - Lecture 3.9 - Reputation effects  - Classroom Experience (15_52).mp4$108.mp4
+108$innovativeideas-031/3 - 17 - Lecture 3.9 - Reputation effects  - Classroom Experience (15_52).srt$108.srt
+109$innovativeideas-031/3 - 2 - Lecture 3.2 - Knowledge conditions - Studio Experience (6_02).mp4$109.mp4
+109$innovativeideas-031/3 - 2 - Lecture 3.2 - Knowledge conditions - Studio Experience (6_02).srt$109.srt
+110$innovativeideas-031/3 - 3 - Lecture 3.2 - Knowledge conditions - Classroom Experience (26_24).mp4$110.mp4
+110$innovativeideas-031/3 - 3 - Lecture 3.2 - Knowledge conditions - Classroom Experience (26_24).srt$110.srt
+111$innovativeideas-031/3 - 4 - Lecture 3.3 - Demand conditions - Studio Experience (17_46).mp4$111.mp4
+111$innovativeideas-031/3 - 4 - Lecture 3.3 - Demand conditions - Studio Experience (17_46).srt$111.srt
+112$innovativeideas-031/3 - 5 - Lecture 3.3 - Demand conditions - Classroom Experience (39_26).mp4$112.mp4
+112$innovativeideas-031/3 - 5 - Lecture 3.3 - Demand conditions - Classroom Experience (39_26).srt$112.srt
+113$innovativeideas-031/3 - 6 - Lecture 3.4 - Industry lifecycle - Studio Experience (10_00).mp4$113.mp4
+113$innovativeideas-031/3 - 6 - Lecture 3.4 - Industry lifecycle - Studio Experience (10_00).srt$113.srt
+114$innovativeideas-031/3 - 7 - Lecture 3.4 - Industry lifecycle - Classroom Experience (34_56).mp4$114.mp4
+114$innovativeideas-031/3 - 7 - Lecture 3.4 - Industry lifecycle - Classroom Experience (34_56).srt$114.srt
+115$innovativeideas-031/3 - 9 - Lecture 3.5 - Industry structure (23_41).mp4$115.mp4
+115$innovativeideas-031/3 - 9 - Lecture 3.5 - Industry structure (23_41).srt$115.srt
+116$innovativeideas-031/4 - 1 - Lecture 4.1 - Introduction to customer understanding (0_49).mp4$116.mp4
+116$innovativeideas-031/4 - 1 - Lecture 4.1 - Introduction to customer understanding (0_49).srt$116.srt
+117$innovativeideas-031/4 - 10 - Lecture 4.5 - Strategic positioning - Studio Experience (8_07).mp4$117.mp4
+117$innovativeideas-031/4 - 10 - Lecture 4.5 - Strategic positioning - Studio Experience (8_07).srt$117.srt
+118$innovativeideas-031/4 - 11 - Lecture 4.5 - Strategic positioning  - Classroom Experience (28_48).mp4$118.mp4
+118$innovativeideas-031/4 - 11 - Lecture 4.5 - Strategic positioning  - Classroom Experience (28_48).srt$118.srt
+119$innovativeideas-031/4 - 12 - Lecture 4.6 - Strategic planning - Studio Experience (3_43).mp4$119.mp4
+119$innovativeideas-031/4 - 12 - Lecture 4.6 - Strategic planning - Studio Experience (3_43).srt$119.srt
+120$innovativeideas-031/4 - 13 - Lecture 4.6 - Strategic planning - Classroom Experience (26_11).mp4$120.mp4
+120$innovativeideas-031/4 - 13 - Lecture 4.6 - Strategic planning - Classroom Experience (26_11).srt$120.srt
+121$innovativeideas-031/4 - 14 - Lecture 4.7 - Value innovation - Studio Experience (6_06).mp4$121.mp4
+121$innovativeideas-031/4 - 14 - Lecture 4.7 - Value innovation - Studio Experience (6_06).srt$121.srt
+122$innovativeideas-031/4 - 15 - Lecture 4.7 - Value innovation - Classroom Experience (18_47).mp4$122.mp4
+122$innovativeideas-031/4 - 15 - Lecture 4.7 - Value innovation - Classroom Experience (18_47).srt$122.srt
+123$innovativeideas-031/4 - 16 - Lecture 4.8 - Opportunity identification - Studio Experience (6_38).mp4$123.mp4
+123$innovativeideas-031/4 - 16 - Lecture 4.8 - Opportunity identification - Studio Experience (6_38).srt$123.srt
+124$innovativeideas-031/4 - 17 - Lecture 4.8 - Opportunity identification - Classroom Experience (29_59).mp4$124.mp4
+124$innovativeideas-031/4 - 17 - Lecture 4.8 - Opportunity identification - Classroom Experience (29_59).srt$124.srt
+125$innovativeideas-031/4 - 19 - Lecture 4.9 - Business models (38_30).mp4$125.mp4
+125$innovativeideas-031/4 - 19 - Lecture 4.9 - Business models (38_30).srt$125.srt
+126$innovativeideas-031/4 - 2 - Lecture 4.2 - Macro changes that increase new venture opportunities - Studio Experience (7_10).mp4$126.mp4
+126$innovativeideas-031/4 - 2 - Lecture 4.2 - Macro changes that increase new venture opportunities - Studio Experience (7_10).srt$126.srt
+127$innovativeideas-031/4 - 3 - Lecture 4.2 - Macro changes that increase new venture opportunities  - Classroom Experience (18_38).mp4$127.mp4
+127$innovativeideas-031/4 - 3 - Lecture 4.2 - Macro changes that increase new venture opportunities  - Classroom Experience (18_38).srt$127.srt
+128$innovativeideas-031/4 - 4 - Guest Lecture with U.S. Secretary of Commerce Penny Pritzker - How Can Government and Entrepreneurs Work Together_ (2_27).mp4$128.mp4
+129$innovativeideas-031/4 - 5 - Guest Lecture with U.S. Secretary of Commerce Penny Pritzker - Why Is Skills Training and Development Important For Entrepreneurs and Government_ (1_15).mp4$129.mp4
+130$innovativeideas-031/4 - 6 - Lecture 4.3 - Exploring real market needs - Studio Experience (6_36).mp4$130.mp4
+130$innovativeideas-031/4 - 6 - Lecture 4.3 - Exploring real market needs - Studio Experience (6_36).srt$130.srt
+131$innovativeideas-031/4 - 7 - Lecture 4.3 - Exploring real market needs  - Classroom Experience (28_13).mp4$131.mp4
+131$innovativeideas-031/4 - 7 - Lecture 4.3 - Exploring real market needs  - Classroom Experience (28_13).srt$131.srt
+132$innovativeideas-031/4 - 8 - Lecture 4.4 - Satisfying real market needs - Studio Experience (8_01).mp4$132.mp4
+132$innovativeideas-031/4 - 8 - Lecture 4.4 - Satisfying real market needs - Studio Experience (8_01).srt$132.srt
+133$innovativeideas-031/4 - 9 - Lecture 4.4 - Satisfying real market needs  - Classroom Experience (22_37).mp4$133.mp4
+133$innovativeideas-031/4 - 9 - Lecture 4.4 - Satisfying real market needs  - Classroom Experience (22_37).srt$133.srt
+134$popularity-001/1 - 1 - 1.1_ Introduction to Popularity - 11_12.mp4$134.mp4
+134$popularity-001/1 - 1 - 1.1_ Introduction to Popularity - 11_12.srt$134.srt
+135$popularity-001/1 - 2 - 1.2_ Is popularity in our DNA_ - 13_25.mp4$135.mp4
+135$popularity-001/1 - 2 - 1.2_ Is popularity in our DNA_ - 13_25.srt$135.srt
+136$popularity-001/1 - 3 - 1.3_ How popularity affects us thousands of times a day. - 15_02.mp4$136.mp4
+136$popularity-001/1 - 3 - 1.3_ How popularity affects us thousands of times a day. - 15_02.srt$136.srt
+137$popularity-001/1 - 4 - 1.4_ Do you have a Hostile Attribution Bias_ - 9_12.mp4$137.mp4
+137$popularity-001/1 - 4 - 1.4_ Do you have a Hostile Attribution Bias_ - 9_12.srt$137.srt
+138$popularity-001/1 - 5 - 1.5_ Do you have a Rejection Sensitivity Bias_ - 6_28.mp4$138.mp4
+138$popularity-001/1 - 5 - 1.5_ Do you have a Rejection Sensitivity Bias_ - 6_28.srt$138.srt
+139$popularity-001/2 - 1 - 2.1_ Who can accurately tell you about a child¡¯s popularity_ - 12_07.mp4$139.mp4
+139$popularity-001/2 - 1 - 2.1_ Who can accurately tell you about a child¡¯s popularity_ - 12_07.srt$139.srt
+140$popularity-001/2 - 2 - 2.2_ Asking peers about children¡¯s popularity - 6_10.mp4$140.mp4
+140$popularity-001/2 - 2 - 2.2_ Asking peers about children¡¯s popularity - 6_10.srt$140.srt
+141$popularity-001/2 - 3 - 2.3_ What are the 5 categories of ¡°Sociometric popularity¡±_ - 7_03.mp4$141.mp4
+141$popularity-001/2 - 3 - 2.3_ What are the 5 categories of ¡°Sociometric popularity¡±_ - 7_03.srt$141.srt
+142$popularity-001/2 - 4 - 2.4_ Does popularity change when moving to a new context_ - 5_02.mp4$142.mp4
+142$popularity-001/2 - 4 - 2.4_ Does popularity change when moving to a new context_ - 5_02.srt$142.srt
+143$popularity-001/2 - 5 - 2.5_ A new form of popularity in adolescence_ - 9_06.mp4$143.mp4
+143$popularity-001/2 - 5 - 2.5_ A new form of popularity in adolescence_ - 9_06.srt$143.srt
+144$popularity-001/3 - 1 - 3.1_ What social behaviors make people popular so quickly_ - 10_47.mp4$144.mp4
+144$popularity-001/3 - 1 - 3.1_ What social behaviors make people popular so quickly_ - 10_47.srt$144.srt
+145$popularity-001/3 - 2 - 3.2_ Other social behaviors that make people popular - 7_12.mp4$145.mp4
+145$popularity-001/3 - 2 - 3.2_ Other social behaviors that make people popular - 7_12.srt$145.srt
+146$popularity-001/3 - 3 - 3.3_ What forms of aggression are related to popularity and rejection_ - 6_13.mp4$146.mp4
+146$popularity-001/3 - 3 - 3.3_ What forms of aggression are related to popularity and rejection_ - 6_13.srt$146.srt
+147$popularity-001/3 - 4 - 3.4_ What functions of aggression are related to popularity and rejection_ - 11_49.mp4$147.mp4
+147$popularity-001/3 - 4 - 3.4_ What functions of aggression are related to popularity and rejection_ - 11_49.srt$147.srt
+148$popularity-001/4 - 1 - 4.1_ Why is facial attractiveness so strongly related to popularity among youth_ - 13_35.mp4$148.mp4
+148$popularity-001/4 - 1 - 4.1_ Why is facial attractiveness so strongly related to popularity among youth_ - 13_35.srt$148.srt
+149$popularity-001/4 - 2 - 4.2_ Body Attractiveness and Popularity - 11_32.mp4$149.mp4
+149$popularity-001/4 - 2 - 4.2_ Body Attractiveness and Popularity - 11_32.srt$149.srt
+150$popularity-001/4 - 3 - 4.3_ Can smart kids be popular_ - 13_38.mp4$150.mp4
+150$popularity-001/4 - 3 - 4.3_ Can smart kids be popular_ - 13_38.srt$150.srt
+151$popularity-001/4 - 4 - 4.4_ How did your parents determine how popular you were_ - 14_18.mp4$151.mp4
+151$popularity-001/4 - 4 - 4.4_ How did your parents determine how popular you were_ - 14_18.srt$151.srt
+152$popularity-001/5 - 1 - 5.1_ How do we study the effects of popularity on later outcomes_ - 8_53.mp4$152.mp4
+152$popularity-001/5 - 1 - 5.1_ How do we study the effects of popularity on later outcomes_ - 8_53.srt$152.srt
+153$popularity-001/5 - 2 - 5.2_ How does popularity predict delinquency_ - 9_45.mp4$153.mp4
+153$popularity-001/5 - 2 - 5.2_ How does popularity predict delinquency_ - 9_45.srt$153.srt
+154$popularity-001/5 - 3 - 5.3_ Different Types of Rejected Children - 6_31.mp4$154.mp4
+154$popularity-001/5 - 3 - 5.3_ Different Types of Rejected Children - 6_31.srt$154.srt
+155$popularity-001/5 - 4 - 5.4_ Why do Rejected-Aggressive children have so many difficulties_ - 6_25.mp4$155.mp4
+155$popularity-001/5 - 4 - 5.4_ Why do Rejected-Aggressive children have so many difficulties_ - 6_25.srt$155.srt
+156$popularity-001/5 - 5 - 5.5_ How does popularity predict internalizing symptoms_ - 11_57.mp4$156.mp4
+156$popularity-001/5 - 5 - 5.5_ How does popularity predict internalizing symptoms_ - 11_57.srt$156.srt
+157$popularity-001/5 - 6 - 5.6_ How does depression predict peer rejection_ - 7_34.mp4$157.mp4
+157$popularity-001/5 - 6 - 5.6_ How does depression predict peer rejection_ - 7_34.srt$157.srt
