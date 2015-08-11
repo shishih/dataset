@@ -5,7 +5,7 @@ import re
 
 #执行重命名功能
 path = 'F:/Research/Video/coursera/'
-# path = 'E:/users/yushiy/video/profiling - Copy/'
+# path = 'E:/users/yushiy/video/profiling/'
 
 sublist=os.listdir(path)
 # print dirlist
@@ -14,7 +14,7 @@ patternInfo=re.compile(r'\.info$')
 patternEn=re.compile(r'\.en$')
 namelist=[]
 
-fp=open('namelist_cour.txt','a')
+fp=open('file/namelist_profiling.txt','a')
 for sub in sublist:
     dirlist=os.listdir(path+sub)
     for file in dirlist:
@@ -23,11 +23,12 @@ for sub in sublist:
             namelist.append(mainname)
 
         ext=os.path.splitext(file)[1]
-
+        
         newname=str(namelist.index(mainname))+ext
+
         fp.write(str(namelist.index(mainname))+'$'+str(sub)+'/'+str(file)+'$'+newname+'\n')
-        # if newname in os.listdir(path+sub):
-        if newname in dirlist:
+        if newname in os.listdir(path+sub):
+        # if newname in dirlist:
             os.remove(path+sub+'/'+file)
         else:
             # filelist.write(str(newname)+'\n')

@@ -1,0 +1,120 @@
+1600$assetpricing2-002/lecture$3 - 8 - 8. Testing One Model vs Another (8_57).srt$1600.srt
+1601$assetpricing2-002/lecture$4 - 5 - Vector Autoregression (8_53).mp4$1601.mp4
+1602$assetpricing2-002/lecture$7 - 7 - 6.1 Statistical Factor Models in the Data (7_06).srt$1602.srt
+1603$assetpricing2-002/lecture$3 - 1 - 1. Motivation & Outline.mp4$1603.mp4
+1604$assetpricing2-002/lecture$3 - 7 - 7. Comments 2.mp4$1604.mp4
+1605$assetpricing2-002/lecture$8 - 5 - 5. Summary (11_09).mp4$1605.mp4
+1606$assetpricing2-002/lecture$5 - 9 - Alternative approaches_ An overview (9_19).mp4$1606.mp4
+1607$assetpricing2-002/lecture$1 - 3 - 3. Using the 3-Factor Model (6_41).mp4$1607.mp4
+1605$assetpricing2-002/lecture$8 - 5 - 5. Summary (11_09).srt$1605.srt
+1608$assetpricing2-002/lecture$7 - 2 - 2. Definitions (5_49).srt$1608.srt
+1609$assetpricing2-002/lecture$7 - 3 - 3. Expectation Hypothesis (5_51).mp4$1609.mp4
+1610$assetpricing2-002/lecture$7 - 6 - 6. Statistical Factor Models (7_13).srt$1610.srt
+1611$assetpricing2-002/lecture$2 - 1 - Carhart 1 (9_43).srt$1611.srt
+1612$assetpricing2-002/lecture$7 - 8 - 7. Term Structure Model w- Expectations Hypothesis (6_19).mp4$1612.mp4
+1613$assetpricing2-002/lecture$6 - 2 - 2. Arbitrage Bounds (5_02).srt$1613.srt
+1614$assetpricing2-002/lecture$6 - 1 - 1. Intro and Payoffs (9_28).mp4$1614.mp4
+1615$assetpricing2-002/lecture$7 - 1 - 1. Introduction (7_35).srt$1615.srt
+1616$assetpricing2-002/lecture$1 - 2 - 2. The Fama-French Model (8_52).srt$1616.srt
+1617$assetpricing2-002/lecture$1 - 1 - 1. The Fama-French 3-Factor Model (7_53).mp4$1617.mp4
+1618$assetpricing2-002/lecture$4 - 2 - One-Period Identities (7_30).mp4$1618.mp4
+1619$assetpricing2-002/lecture$4 - 1 - Introduction_ Three facts .mp4$1619.mp4
+1620$assetpricing2-002/lecture$8 - 2 - 2. Mean-Variance (9_18).mp4$1620.mp4
+1621$assetpricing2-002/lecture$3 - 3 - 3. Cross-Sectional Regressions.srt$1621.srt
+1619$assetpricing2-002/lecture$4 - 1 - Introduction_ Three facts .srt$1619.srt
+1622$assetpricing2-002/lecture$4 - 6 - Volatility and the VAR (4_37).srt$1622.srt
+1623$assetpricing2-002/lecture$3 - 6 - 6. GMM SDF Tests.srt$1623.srt
+1624$assetpricing2-002/lecture$7 - 4 - 4. Risk Premium Introduction (5_35).srt$1624.srt
+1618$assetpricing2-002/lecture$4 - 2 - One-Period Identities (7_30).srt$1618.srt
+1625$assetpricing2-002/lecture$5 - 3 - Habits (7_37).mp4$1625.mp4
+1626$assetpricing2-002/lecture$7 - 12 - 11. Continuous-Time Term Structure (9_02).mp4$1626.mp4
+1627$assetpricing2-002/lecture$2 - 2 - Carhart 2 (9_27).mp4$1627.mp4
+1628$assetpricing2-002/lecture$5 - 1 - Equity Premium Puzzles (7_46).srt$1628.srt
+1610$assetpricing2-002/lecture$7 - 6 - 6. Statistical Factor Models (7_13).mp4$1610.mp4
+1629$assetpricing2-002/lecture$2 - 3 - Fama and French (13_08).srt$1629.srt
+1617$assetpricing2-002/lecture$1 - 1 - 1. The Fama-French 3-Factor Model (7_53).srt$1617.srt
+1630$assetpricing2-002/lecture$2 - 4 - Berk and Green (10_51).srt$1630.srt
+1611$assetpricing2-002/lecture$2 - 1 - Carhart 1 (9_43).mp4$1611.mp4
+1631$assetpricing2-002/lecture$6 - 3 - 3. Black-Scholes (9_59).srt$1631.srt
+1632$assetpricing2-002/lecture$6 - 6 - 6. Date, Smile, Models (13_01).mp4$1632.mp4
+1633$assetpricing2-002/lecture$6 - 4 - 4. Other Methods (8_54).mp4$1633.mp4
+1613$assetpricing2-002/lecture$6 - 2 - 2. Arbitrage Bounds (5_02).mp4$1613.mp4
+1634$assetpricing2-002/lecture$8 - 4 - 4. Merton Examples (5_33).mp4$1634.mp4
+1620$assetpricing2-002/lecture$8 - 2 - 2. Mean-Variance (9_18).srt$1620.srt
+1635$assetpricing2-002/lecture$3 - 2 - 2. Time-Series and GRS (5_50).srt$1635.srt
+1636$assetpricing2-002/lecture$4 - 8 - Univariate vs Multivariate Responses (6_35).mp4$1636.mp4
+1607$assetpricing2-002/lecture$1 - 3 - 3. Using the 3-Factor Model (6_41).srt$1607.srt
+1609$assetpricing2-002/lecture$7 - 3 - 3. Expectation Hypothesis (5_51).srt$1609.srt
+1637$assetpricing2-002/lecture$7 - 10 - 9. Other Approaches (7_03).srt$1637.srt
+1631$assetpricing2-002/lecture$6 - 3 - 3. Black-Scholes (9_59).mp4$1631.mp4
+1638$assetpricing2-002/lecture$5 - 8 - Production (9_08).srt$1638.srt
+1639$assetpricing2-002/lecture$4 - 4 - Volatility (9_34).srt$1639.srt
+1640$assetpricing2-002/lecture$5 - 4 - Habits Discussion (4_46).mp4$1640.mp4
+1628$assetpricing2-002/lecture$5 - 1 - Equity Premium Puzzles (7_46).mp4$1628.mp4
+1641$assetpricing2-002/lecture$4 - 7 - Impulse-Response Function (9_08).mp4$1641.mp4
+1642$assetpricing2-002/lecture$8 - 3 - 3. Merton (11_34).mp4$1642.mp4
+1643$assetpricing2-002/lecture$4 - 10 - Pervasive Predictability -- Preview (5_26).mp4$1643.mp4
+1604$assetpricing2-002/lecture$3 - 7 - 7. Comments 2.srt$1604.srt
+1615$assetpricing2-002/lecture$7 - 1 - 1. Introduction (7_35).mp4$1615.mp4
+1600$assetpricing2-002/lecture$3 - 8 - 8. Testing One Model vs Another (8_57).mp4$1600.mp4
+1632$assetpricing2-002/lecture$6 - 6 - 6. Date, Smile, Models (13_01).srt$1632.srt
+1644$assetpricing2-002/lecture$3 - 5 - 5. Fama-MacBeth Regressions.srt$1644.srt
+1622$assetpricing2-002/lecture$4 - 6 - Volatility and the VAR (4_37).mp4$1622.mp4
+1608$assetpricing2-002/lecture$7 - 2 - 2. Definitions (5_49).mp4$1608.mp4
+1645$assetpricing2-002/lecture$1 - 5 - 5. What is the Fama-French 3-Factor Model_ (9_50).mp4$1645.mp4
+1646$assetpricing2-002/lecture$7 - 13 - 12. Continuous-Time Discussion (7_22).mp4$1646.mp4
+1647$assetpricing2-002/lecture$7 - 5 - 5. Facts - Fama-Bliss (9_33).srt$1647.srt
+1648$assetpricing2-002/lecture$5 - 7 - Heterogeneous Risk Aversion (6_22).mp4$1648.mp4
+1612$assetpricing2-002/lecture$7 - 8 - 7. Term Structure Model w- Expectations Hypothesis (6_19).srt$1612.srt
+1649$assetpricing2-002/lecture$5 - 6 - Idiosyncratic Risk (7_24).mp4$1649.mp4
+1650$assetpricing2-002/lecture$8 - 1 - 1. Classic Approach (11_43).srt$1650.srt
+1641$assetpricing2-002/lecture$4 - 7 - Impulse-Response Function (9_08).srt$1641.srt
+1651$assetpricing2-002/lecture$4 - 9 - More Variables (8_25).srt$1651.srt
+1643$assetpricing2-002/lecture$4 - 10 - Pervasive Predictability -- Preview (5_26).srt$1643.srt
+1629$assetpricing2-002/lecture$2 - 3 - Fama and French (13_08).mp4$1629.mp4
+1623$assetpricing2-002/lecture$3 - 6 - 6. GMM SDF Tests.mp4$1623.mp4
+1652$assetpricing2-002/lecture$5 - 2 - Equity Premium Puzzles_ Comments (7_41).srt$1652.srt
+1653$assetpricing2-002/lecture$7 - 9 - 8. Discrete-Time Vasicek (5_25).srt$1653.srt
+1654$assetpricing2-002/lecture$7 - 11 - 10. Comments on Single-Factor Vasicek (9_23).srt$1654.srt
+1655$assetpricing2-002/lecture$3 - 4 - 4. Comments.mp4$1655.mp4
+1644$assetpricing2-002/lecture$3 - 5 - 5. Fama-MacBeth Regressions.mp4$1644.mp4
+1647$assetpricing2-002/lecture$7 - 5 - 5. Facts - Fama-Bliss (9_33).mp4$1647.mp4
+1640$assetpricing2-002/lecture$5 - 4 - Habits Discussion (4_46).srt$1640.srt
+1621$assetpricing2-002/lecture$3 - 3 - 3. Cross-Sectional Regressions.mp4$1621.mp4
+1656$assetpricing2-002/lecture$6 - 5 - 5. Spanning, State Prices, and Current Models (8_59).srt$1656.srt
+1602$assetpricing2-002/lecture$7 - 7 - 6.1 Statistical Factor Models in the Data (7_06).mp4$1602.mp4
+1657$assetpricing2-002/lecture$5 - 5 - Recursive Utility (8_43).srt$1657.srt
+1616$assetpricing2-002/lecture$1 - 2 - 2. The Fama-French Model (8_52).mp4$1616.mp4
+1639$assetpricing2-002/lecture$4 - 4 - Volatility (9_34).mp4$1639.mp4
+1657$assetpricing2-002/lecture$5 - 5 - Recursive Utility (8_43).mp4$1657.mp4
+1637$assetpricing2-002/lecture$7 - 10 - 9. Other Approaches (7_03).mp4$1637.mp4
+1630$assetpricing2-002/lecture$2 - 4 - Berk and Green (10_51).mp4$1630.mp4
+1652$assetpricing2-002/lecture$5 - 2 - Equity Premium Puzzles_ Comments (7_41).mp4$1652.mp4
+1658$assetpricing2-002/lecture$1 - 4 - 4. Momentum & Reversal (6_12).mp4$1658.mp4
+1659$assetpricing2-002/lecture$4 - 3 - Campbell-Shiller Present Value Formula (4_43).mp4$1659.mp4
+1636$assetpricing2-002/lecture$4 - 8 - Univariate vs Multivariate Responses (6_35).srt$1636.srt
+1654$assetpricing2-002/lecture$7 - 11 - 10. Comments on Single-Factor Vasicek (9_23).mp4$1654.mp4
+1659$assetpricing2-002/lecture$4 - 3 - Campbell-Shiller Present Value Formula (4_43).srt$1659.srt
+1642$assetpricing2-002/lecture$8 - 3 - 3. Merton (11_34).srt$1642.srt
+1626$assetpricing2-002/lecture$7 - 12 - 11. Continuous-Time Term Structure (9_02).srt$1626.srt
+1625$assetpricing2-002/lecture$5 - 3 - Habits (7_37).srt$1625.srt
+1646$assetpricing2-002/lecture$7 - 13 - 12. Continuous-Time Discussion (7_22).srt$1646.srt
+1624$assetpricing2-002/lecture$7 - 4 - 4. Risk Premium Introduction (5_35).mp4$1624.mp4
+1601$assetpricing2-002/lecture$4 - 5 - Vector Autoregression (8_53).srt$1601.srt
+1638$assetpricing2-002/lecture$5 - 8 - Production (9_08).mp4$1638.mp4
+1648$assetpricing2-002/lecture$5 - 7 - Heterogeneous Risk Aversion (6_22).srt$1648.srt
+1634$assetpricing2-002/lecture$8 - 4 - 4. Merton Examples (5_33).srt$1634.srt
+1614$assetpricing2-002/lecture$6 - 1 - 1. Intro and Payoffs (9_28).srt$1614.srt
+1650$assetpricing2-002/lecture$8 - 1 - 1. Classic Approach (11_43).mp4$1650.mp4
+1635$assetpricing2-002/lecture$3 - 2 - 2. Time-Series and GRS (5_50).mp4$1635.mp4
+1656$assetpricing2-002/lecture$6 - 5 - 5. Spanning, State Prices, and Current Models (8_59).mp4$1656.mp4
+1655$assetpricing2-002/lecture$3 - 4 - 4. Comments.srt$1655.srt
+1649$assetpricing2-002/lecture$5 - 6 - Idiosyncratic Risk (7_24).srt$1649.srt
+1653$assetpricing2-002/lecture$7 - 9 - 8. Discrete-Time Vasicek (5_25).mp4$1653.mp4
+1633$assetpricing2-002/lecture$6 - 4 - 4. Other Methods (8_54).srt$1633.srt
+1606$assetpricing2-002/lecture$5 - 9 - Alternative approaches_ An overview (9_19).srt$1606.srt
+1627$assetpricing2-002/lecture$2 - 2 - Carhart 2 (9_27).srt$1627.srt
+1651$assetpricing2-002/lecture$4 - 9 - More Variables (8_25).mp4$1651.mp4
+1658$assetpricing2-002/lecture$1 - 4 - 4. Momentum & Reversal (6_12).srt$1658.srt
+1645$assetpricing2-002/lecture$1 - 5 - 5. What is the Fama-French 3-Factor Model_ (9_50).srt$1645.srt
+1603$assetpricing2-002/lecture$3 - 1 - 1. Motivation & Outline.srt$1603.srt

@@ -1,0 +1,52 @@
+1400$androidpart2-005/lecture$5 - 6 - Data Management- Part 2 (13_36).srt$1400.srt
+1401$androidpart2-005/lecture$2 - 1 - Threads, AsyncTasks & Handlers - Part 1 (15_33).srt$1401.srt
+1402$androidpart2-005/lecture$3 - 3 - BroadcastReceiver - Part 1 (14_10).srt$1402.srt
+1403$androidpart2-005/lecture$4 - 7 - Multimedia - Part 2 (18_35).srt$1403.srt
+1404$androidpart2-005/lecture$5 - 1 - Sensors - Part 1 (11_02).mp4$1404.mp4
+1405$androidpart2-005/lecture$4 - 1 - Graphics and Animation - Part 1 (16_41).mp4$1405.mp4
+1406$androidpart2-005/lecture$2 - 3 - Networking - Part 1 (13_43).srt$1406.srt
+1407$androidpart2-005/lecture$5 - 3 - Location and Maps - Part 1 (13_49).mp4$1407.mp4
+1408$androidpart2-005/lecture$4 - 9 - Introduction to Amazon Guest Lecture - Analytics and A-B Testing.mp4$1408.mp4
+1409$androidpart2-005/lecture$5 - 7 - Closing.srt$1409.srt
+1410$androidpart2-005/lecture$1 - 1 - Overview (4_50).mp4$1410.mp4
+1411$androidpart2-005/lecture$3 - 2 - User Notifications - Part 2 (12_26).mp4$1411.mp4
+1412$androidpart2-005/lecture$2 - 2 - Threads, AsyncTasks & Handlers - Part 2 (16_15).mp4$1412.mp4
+1413$androidpart2-005/lecture$4 - 8 - Preview_ Programming Cloud Services for Android Handheld Systems.mp4$1413.mp4
+1408$androidpart2-005/lecture$4 - 9 - Introduction to Amazon Guest Lecture - Analytics and A-B Testing.srt$1408.srt
+1410$androidpart2-005/lecture$1 - 1 - Overview (4_50).srt$1410.srt
+1414$androidpart2-005/lecture$4 - 2 - Graphics and Animation - Part 2 (12_11).srt$1414.srt
+1405$androidpart2-005/lecture$4 - 1 - Graphics and Animation - Part 1 (16_41).srt$1405.srt
+1415$androidpart2-005/lecture$2 - 4 - Networking - Part 2 (12_31).mp4$1415.mp4
+1416$androidpart2-005/lecture$4 - 5 - Touch and Gestures - Part 2 (11_42).srt$1416.srt
+1417$androidpart2-005/lecture$4 - 6 - Multimedia - Part 1 (11_46).mp4$1417.mp4
+1418$androidpart2-005/lecture$4 - 3 - Graphics and Animation - Part 3 (20_15).mp4$1418.mp4
+1416$androidpart2-005/lecture$4 - 5 - Touch and Gestures - Part 2 (11_42).mp4$1416.mp4
+1409$androidpart2-005/lecture$5 - 7 - Closing.mp4$1409.mp4
+1419$androidpart2-005/lecture$5 - 4 - Location and Maps - Part 2 (9_52).mp4$1419.mp4
+1417$androidpart2-005/lecture$4 - 6 - Multimedia - Part 1 (11_46).srt$1417.srt
+1404$androidpart2-005/lecture$5 - 1 - Sensors - Part 1 (11_02).srt$1404.srt
+1414$androidpart2-005/lecture$4 - 2 - Graphics and Animation - Part 2 (12_11).mp4$1414.mp4
+1418$androidpart2-005/lecture$4 - 3 - Graphics and Animation - Part 3 (20_15).srt$1418.srt
+1415$androidpart2-005/lecture$2 - 4 - Networking - Part 2 (12_31).srt$1415.srt
+1420$androidpart2-005/lecture$3 - 4 - BroadcastReceiver - Part 2 (16_30).srt$1420.srt
+1421$androidpart2-005/lecture$5 - 2 - Sensors - Part 2 (11_38).mp4$1421.mp4
+1406$androidpart2-005/lecture$2 - 3 - Networking - Part 1 (13_43).mp4$1406.mp4
+1401$androidpart2-005/lecture$2 - 1 - Threads, AsyncTasks & Handlers - Part 1 (15_33).mp4$1401.mp4
+1421$androidpart2-005/lecture$5 - 2 - Sensors - Part 2 (11_38).srt$1421.srt
+1411$androidpart2-005/lecture$3 - 2 - User Notifications - Part 2 (12_26).srt$1411.srt
+1400$androidpart2-005/lecture$5 - 6 - Data Management- Part 2 (13_36).mp4$1400.mp4
+1402$androidpart2-005/lecture$3 - 3 - BroadcastReceiver - Part 1 (14_10).mp4$1402.mp4
+1422$androidpart2-005/lecture$4 - 4 - Touch and Gestures - Part 1 (15_51).mp4$1422.mp4
+1423$androidpart2-005/lecture$3 - 5 - Alarms (17_40).srt$1423.srt
+1412$androidpart2-005/lecture$2 - 2 - Threads, AsyncTasks & Handlers - Part 2 (16_15).srt$1412.srt
+1424$androidpart2-005/lecture$3 - 1 - User Notifications - Part 1 (9_05).srt$1424.srt
+1407$androidpart2-005/lecture$5 - 3 - Location and Maps - Part 1 (13_49).srt$1407.srt
+1425$androidpart2-005/lecture$5 - 5 - Data Management - Part 1 (15_54).mp4$1425.mp4
+1413$androidpart2-005/lecture$4 - 8 - Preview_ Programming Cloud Services for Android Handheld Systems.srt$1413.srt
+1425$androidpart2-005/lecture$5 - 5 - Data Management - Part 1 (15_54).srt$1425.srt
+1403$androidpart2-005/lecture$4 - 7 - Multimedia - Part 2 (18_35).mp4$1403.mp4
+1422$androidpart2-005/lecture$4 - 4 - Touch and Gestures - Part 1 (15_51).srt$1422.srt
+1423$androidpart2-005/lecture$3 - 5 - Alarms (17_40).mp4$1423.mp4
+1419$androidpart2-005/lecture$5 - 4 - Location and Maps - Part 2 (9_52).srt$1419.srt
+1420$androidpart2-005/lecture$3 - 4 - BroadcastReceiver - Part 2 (16_30).mp4$1420.mp4
+1424$androidpart2-005/lecture$3 - 1 - User Notifications - Part 1 (9_05).mp4$1424.mp4

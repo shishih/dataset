@@ -1,0 +1,38 @@
+1800$comparinggenomes-001lecture$5 - 1 - Transforming Men Into Mice (13_03).mp4$1800.mp4
+1801$comparinggenomes-001lecture$5 - 3 - Breakpoint Theorem (05_58).srt$1801.srt
+1802$comparinggenomes-001lecture$6 - 1 - Breakpoint Graphs (06_33).srt$1802.srt
+1803$comparinggenomes-001lecture$2 - 3 - The Manhattan Tourist Problem (06_14).mp4$1803.mp4
+1804$comparinggenomes-001lecture$2 - 2 - The Alignment Game and the Longest Common Subsequence Problem (03_45).srt$1804.srt
+1805$comparinggenomes-001lecture$5 - 4 - Rearrangements in Tumor Genomes (05_18).mp4$1805.mp4
+1806$comparinggenomes-001lecture$4 - 2 - Space-Efficient Sequence Alignment (10_36).mp4$1806.mp4
+1807$comparinggenomes-001lecture$2 - 4 - The Change Problem (10_20).mp4$1807.mp4
+1808$comparinggenomes-001lecture$4 - 3 - Multiple Sequence Alignment (13_04).srt$1808.srt
+1807$comparinggenomes-001lecture$2 - 4 - The Change Problem (10_20).srt$1807.srt
+1806$comparinggenomes-001lecture$4 - 2 - Space-Efficient Sequence Alignment (10_36).srt$1806.srt
+1809$comparinggenomes-001lecture$6 - 2 - 2-Break Distance Theorem (05_11).mp4$1809.mp4
+1810$comparinggenomes-001lecture$2 - 6 - From Manhattan to the Alignment Graph (09_41).mp4$1810.mp4
+1809$comparinggenomes-001lecture$6 - 2 - 2-Break Distance Theorem (05_11).srt$1809.srt
+1811$comparinggenomes-001lecture$6 - 4 - Synteny Block Construction (11_00).mp4$1811.mp4
+1812$comparinggenomes-001lecture$3 - 1 - From Global to Local Alignment (11_12).srt$1812.srt
+1813$comparinggenomes-001lecture$2 - 1 - From Sequence Comparison to Biological Insights (10_02).mp4$1813.mp4
+1814$comparinggenomes-001lecture$4 - 1 - Penalizing Insertions and Deletions in Sequence Alignment (05_27).mp4$1814.mp4
+1800$comparinggenomes-001lecture$5 - 1 - Transforming Men Into Mice (13_03).srt$1800.srt
+1813$comparinggenomes-001lecture$2 - 1 - From Sequence Comparison to Biological Insights (10_02).srt$1813.srt
+1810$comparinggenomes-001lecture$2 - 6 - From Manhattan to the Alignment Graph (09_41).srt$1810.srt
+1805$comparinggenomes-001lecture$5 - 4 - Rearrangements in Tumor Genomes (05_18).srt$1805.srt
+1815$comparinggenomes-001lecture$5 - 2 - Sorting by Reversals (04_20).srt$1815.srt
+1801$comparinggenomes-001lecture$5 - 3 - Breakpoint Theorem (05_58).mp4$1801.mp4
+1816$comparinggenomes-001lecture$5 - 5 - 2-Breaks (07_16).mp4$1816.mp4
+1808$comparinggenomes-001lecture$4 - 3 - Multiple Sequence Alignment (13_04).mp4$1808.mp4
+1817$comparinggenomes-001lecture$6 - 3 - Rearrangement Hotspots in the Human Genome (07_55).srt$1817.srt
+1815$comparinggenomes-001lecture$5 - 2 - Sorting by Reversals (04_20).mp4$1815.mp4
+1818$comparinggenomes-001lecture$2 - 5 - Dynamic Programming and Backtracking Pointers (06_58).mp4$1818.mp4
+1803$comparinggenomes-001lecture$2 - 3 - The Manhattan Tourist Problem (06_14).srt$1803.srt
+1818$comparinggenomes-001lecture$2 - 5 - Dynamic Programming and Backtracking Pointers (06_58).srt$1818.srt
+1817$comparinggenomes-001lecture$6 - 3 - Rearrangement Hotspots in the Human Genome (07_55).mp4$1817.mp4
+1802$comparinggenomes-001lecture$6 - 1 - Breakpoint Graphs (06_33).mp4$1802.mp4
+1811$comparinggenomes-001lecture$6 - 4 - Synteny Block Construction (11_00).srt$1811.srt
+1812$comparinggenomes-001lecture$3 - 1 - From Global to Local Alignment (11_12).mp4$1812.mp4
+1814$comparinggenomes-001lecture$4 - 1 - Penalizing Insertions and Deletions in Sequence Alignment (05_27).srt$1814.srt
+1804$comparinggenomes-001lecture$2 - 2 - The Alignment Game and the Longest Common Subsequence Problem (03_45).mp4$1804.mp4
+1816$comparinggenomes-001lecture$5 - 5 - 2-Breaks (07_16).srt$1816.srt
