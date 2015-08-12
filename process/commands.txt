@@ -1,0 +1,1 @@
+./ffmpeg.exe -i 9.mp4 -ss 5.32 -vframes 57 -y -f mp4 9_cut.mp4
